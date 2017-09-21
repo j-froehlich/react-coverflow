@@ -1,6 +1,6 @@
+import { StyleRoot } from 'radium';
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import { StyleRoot } from 'radium';
 import Coverflow from '../../src/Coverflow';
 
 const fn = () => {
@@ -8,26 +8,22 @@ const fn = () => {
 };
 
 ReactDOM.render(
-
   <Coverflow
     width={960}
     height={480}
     displayQuantityOfSide={2}
     navigation={false}
-    enableHeading={false}
-  >
+    enableHeading={false} >
     <div
       onClick={() => fn()}
       onKeyDown={() => fn()}
       role="menuitem"
-      tabIndex="0"
-    >
+      tabIndex="0" >
       <img
         src="images/album-1.png"
         alt="Album one"
-        style={{ display: 'block', width: '100%' }}
-      />
-    </div>
+        style={{ display: 'block', width: '100%' }} />
+    </div >
     <img src="images/album-2.png" alt="Album two" data-action="http://passer.cc" />
     <img src="images/album-3.png" alt="Album three" data-action="https://doce.cc/" />
     <img src="images/album-4.png" alt="Album four" data-action="http://tw.yahoo.com" />
@@ -55,14 +51,13 @@ ReactDOM.render(
     <img src="images/album-5.png" alt="Album five" data-action="http://www.bbc.co.uk" />
     <img src="images/album-6.png" alt="Album six" data-action="https://medium.com" />
     <img src="images/album-7.png" alt="Album seven" data-action="http://www.google.com" />
-
-  </Coverflow>,
+  </Coverflow >,
 
   document.querySelector('.example_1'),
 );
 
 ReactDOM.render(
-  <StyleRoot>
+  <StyleRoot >
     <Coverflow
       displayQuantityOfSide={2}
       navigation
@@ -70,21 +65,20 @@ ReactDOM.render(
       infiniteScroll
       media={{
         '@media (max-width: 900px)': {
-          width: '600px',
+          width:  '600px',
           height: '300px',
         },
         '@media (min-width: 900px)': {
-          width: '960px',
+          width:  '960px',
           height: '600px',
         },
-      }}
-    >
+      }} >
       <img src="images/album-1.png" alt="Album one" data-action="https://facebook.github.io/react/" />
       <img src="images/album-2.png" alt="Album two" data-action="http://passer.cc" />
       <img src="images/album-3.png" alt="Album three" data-action="https://doce.cc/" />
       <img src="images/album-4.png" alt="Album four" data-action="http://tw.yahoo.com" />
-    </Coverflow>
-  </StyleRoot>
+    </Coverflow >
+  </StyleRoot >
   ,
   document.querySelector('.example_2'),
 );
@@ -104,47 +98,46 @@ class Container extends Component {
     this.setState({
       active: num,
     });
-  }
+  };
 
   render() {
     return (
-      <div>
-        <div style={{ width: '960px', marginLeft: 'auto', marginRight: 'auto' }}>
+      <div >
+        <div style={{ width: '960px', marginLeft: 'auto', marginRight: 'auto' }} >
           <button
             style={{
-              borderWidth: '0',
+              borderWidth:     '0',
               backgroundColor: '#333',
-              color: 'white',
-              padding: '10px',
-              float: 'right',
-              borderRadius: '5px',
-              marginBottom: '20px',
+              color:           'white',
+              padding:         '10px',
+              float:           'right',
+              borderRadius:    '5px',
+              marginBottom:    '20px',
             }}
-            onClick={() => this._handleClick()}
-          >
+            onClick={() => this._handleClick()} >
             Click to Randomize
-          </button>
-        </div>
+          </button >
+        </div >
         <Coverflow
           width={960}
           height={480}
           displayQuantityOfSide={2}
           navigation
           enableHeading={false}
-          active={this.state.active}
-        >
+          active={this.state.active} >
+
           <div
             onClick={() => fn()}
             onKeyDown={() => fn()}
             role="menuitem"
-            tabIndex="0"
-          >
+            tabIndex="0" >
+
             <img
               src="images/album-1.png"
               alt="Album one"
-              style={{ display: 'block', width: '100%' }}
-            />
-          </div>
+              style={{ display: 'block', width: '100%' }} />
+
+          </div >
           <img src="images/album-2.png" alt="Album two" data-action="http://passer.cc" />
           <img src="images/album-3.png" alt="Album three" data-action="https://doce.cc/" />
           <img src="images/album-4.png" alt="Album four" data-action="http://tw.yahoo.com" />
@@ -155,8 +148,8 @@ class Container extends Component {
           <img src="images/album-2.png" alt="Album two" data-action="http://passer.cc" />
           <img src="images/album-3.png" alt="Album three" data-action="https://doce.cc/" />
           <img src="images/album-4.png" alt="Album four" data-action="http://tw.yahoo.com" />
-        </Coverflow>
-      </div>
+        </Coverflow >
+      </div >
     );
   }
 }

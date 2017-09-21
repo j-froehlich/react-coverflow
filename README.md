@@ -1,4 +1,4 @@
-React Coverflow
+React Coverflow Packages Updated Version
 ===
 [![npm version](https://badge.fury.io/js/react-coverflow.svg)](http://badge.fury.io/js/react-coverflow)
 

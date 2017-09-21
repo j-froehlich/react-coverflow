@@ -4,13 +4,13 @@
  *
  * Author: andyyou & asalem1
  */
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import Radium from 'radium';
 import styles from './stylesheets/coverflow';
 
 import injectTapEventPlugin from 'react-tap-event-plugin';
+
 injectTapEventPlugin();
 
 let TOUCH = {
@@ -45,7 +45,7 @@ class Coverflow extends Component {
       height: this.props.height || 'auto',
     };
   }
-  
+
   static propTypes = {
     children: PropTypes.node.isRequired,
     displayQuantityOfSide: PropTypes.number.isRequired,
@@ -81,9 +81,9 @@ class Coverflow extends Component {
         this.refs[figureID].addEventListener(event, HandleAnimationState.bind(this));
       }
     });
-    
+
     const eventListener = window && window.addEventListener;
-    
+
     if(eventListener) {
       window.addEventListener('resize', this.updateDimensions.bind(this));
     }
@@ -109,7 +109,7 @@ class Coverflow extends Component {
 
     // if(removeListener) {
     //   window.removeEventListener('resize', this.updateDimensions.bind(this));
-    // } 
+    // }
   }
 
   updateDimensions(active) {
@@ -144,7 +144,7 @@ class Coverflow extends Component {
       <div
         className={styles.container}
         style={
-          Object.keys(media).length !== 0 ? media : 
+          Object.keys(media).length !== 0 ? media :
           { width: `${width}px`, height: `${height}px` }
         }
         onWheel={enableScroll ? this._handleWheel.bind(this) : null}
@@ -208,7 +208,7 @@ class Coverflow extends Component {
     let style = {};
     let baseWidth = width / (displayQuantityOfSide * 2 + 1);
     let length = React.Children.count(this.props.children);
-    let offset = length % 2 === 0 ? -width/10 : 0;
+    let offset = length % 2 === 0 ? -width / 10 : 0;
     // Handle opacity
     let depth = displayQuantityOfSide - Math.abs(current - index);
     let opacity = depth === 1 ? 0.95 : 0.5;
@@ -273,10 +273,10 @@ class Coverflow extends Component {
       return (
         <figure
           className={styles.figure}
-          key={index}
+                key={index}
           onClick={(e) => this._handleFigureClick(index, figureElement.props['data-action'], e) }
-          style={style}
-          ref={`figure_${index}`}
+                style={style}
+                ref={`figure_${index}`}
         >
           {figureElement}
           {
