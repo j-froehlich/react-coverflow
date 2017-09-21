@@ -35,7 +35,7 @@
   "peerDependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-tap-event-plugin": "^2.x"
+    "react-tap-event-plugin": "^2.0.1"
   },
   "url": "https://github.com/andyyou/react-coverflow.git",
   "devDependencies": {
