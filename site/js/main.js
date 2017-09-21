@@ -16,7 +16,7 @@ ReactDOM.render(
     navigation={true}
     enableHeading={false}
     clickable={true}
-    >
+  >
     <img src='images/album-1.png' alt='Album one' data-action={fn} />
     <img src='images/album-2.png' alt='Album two' data-action="http://passer.cc"/>
     <img src='images/album-3.png' alt='Album three' data-action="https://doce.cc/"/>
@@ -53,27 +53,27 @@ ReactDOM.render(
 
 ReactDOM.render(
   <StyleRoot>
-  <Coverflow
-    displayQuantityOfSide={2}
-    navigation={true}
-    enableHeading={true}
-    active={3}
-    media={{
-      '@media (max-width: 900px)': {
-        width: '600px',
-        height: '300px'
-      },
-      '@media (min-width: 900px)': {
-        width: '960px',
-        height: '600px'
-      }
-    }}
+    <Coverflow
+      displayQuantityOfSide={2}
+      navigation={true}
+      enableHeading={true}
+      active={3}
+      media={{
+        '@media (max-width: 900px)': {
+          width: '600px',
+          height: '300px'
+        },
+        '@media (min-width: 900px)': {
+          width: '960px',
+          height: '600px'
+        }
+      }}
     >
-    <img src='images/album-1.png' alt='Album one' data-action="https://facebook.github.io/react/"/>
-    <img src='images/album-2.png' alt='Album two' data-action="http://passer.cc"/>
-    <img src='images/album-3.png' alt='Album three' data-action="https://doce.cc/"/>
-    <img src='images/album-4.png' alt='Album four' data-action="http://tw.yahoo.com"/>
-  </Coverflow>
+      <img src='images/album-1.png' alt='Album one' data-action="https://facebook.github.io/react/"/>
+      <img src='images/album-2.png' alt='Album two' data-action="http://passer.cc"/>
+      <img src='images/album-3.png' alt='Album three' data-action="https://doce.cc/"/>
+      <img src='images/album-4.png' alt='Album four' data-action="http://tw.yahoo.com"/>
+    </Coverflow>
   </StyleRoot>
   ,
   document.querySelector('.example_2')
@@ -114,7 +114,7 @@ class Container extends Component {
           navigation={true}
           enableHeading={false}
           active={this.state.active}
-          >
+        >
           <img src='images/album-1.png' alt='Album one' data-action={fn} />
           <img src='images/album-2.png' alt='Album two' data-action="http://passer.cc"/>
           <img src='images/album-3.png' alt='Album three' data-action="https://doce.cc/"/>

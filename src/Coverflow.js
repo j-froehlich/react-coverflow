@@ -9,9 +9,11 @@ import Radium from 'radium';
 import styles from './stylesheets/coverflow';
 
 import injectTapEventPlugin from 'react-tap-event-plugin';
+
 injectTapEventPlugin();
 
-var TOUCH = {move: false,
+var TOUCH = {
+  move: false,
   lastX: 0,
   sign: 0,
   lastMove: 0
@@ -103,28 +105,31 @@ class Coverflow extends Component {
     const {enableScroll} = this.props;
     const {width, height} = this.state;
     return (
-        <div className={styles.container}
-             style={[{width: `${width}px`, height: `${height}px`}, this.props.media]}
-             onWheel={enableScroll ? this._handleWheel.bind(this) : null}
-             onTouchStart={this._handleTouchStart.bind(this)}
-             onTouchMove={this._handleTouchMove.bind(this)}
-             >
-          <div className={styles.coverflow}>
-            <div className={styles.preloader}></div>
-            <div className={styles.stage} ref="stage">
-                {this._renderFigureNodes()}
-            </div>
-            {
-              this.props.navigation &&
-              (
-                <div className={styles.actions}>
-                  <button type="button" className={styles.button} onClick={ this._handlePrevFigure.bind(this) }>Previous</button>
-                  <button type="button" className={styles.button} onClick={ this._handleNextFigure.bind(this) }>Next</button>
-                </div>
-              )
-            }
+      <div
+        className={styles.container}
+        style={[{width: `${width}px`, height: `${height}px`}, this.props.media]}
+        onWheel={enableScroll ? this._handleWheel.bind(this) : null}
+        onTouchStart={this._handleTouchStart.bind(this)}
+        onTouchMove={this._handleTouchMove.bind(this)}
+      >
+        <div className={styles.coverflow}>
+          <div className={styles.preloader}></div>
+          <div className={styles.stage} ref="stage">
+            {this._renderFigureNodes()}
           </div>
+          {
+            this.props.navigation &&
+            (
+              <div className={styles.actions}>
+                <button type="button" className={styles.button} onClick={this._handlePrevFigure.bind(this)}>Previous
+                </button>
+                <button type="button" className={styles.button} onClick={this._handleNextFigure.bind(this)}>Next
+                </button>
+              </div>
+            )
+          }
         </div>
+      </div>
     );
   }
 
@@ -150,7 +155,7 @@ class Coverflow extends Component {
     let style = {};
     let baseWidth = width / (displayQuantityOfSide * 2 + 1);
     let length = React.Children.count(this.props.children);
-    let offset = length % 2 === 0 ? -width/10 : 0;
+    let offset = length % 2 === 0 ? -width / 10 : 0;
     // Handle opacity
     let depth = displayQuantityOfSide - Math.abs(current - index);
     let opacity = depth === 1 ? 0.95 : 0.5;
@@ -211,12 +216,13 @@ class Coverflow extends Component {
       let figureElement = React.cloneElement(child, {className: styles.cover});
       let style = this._handleFigureStyle(index, this.state.current);
       return (
-        <figure className={styles.figure}
+        <figure
+          className={styles.figure}
           key={index}
           style={style}
-          onClick={ this._handleFigureClick.bind(this, index, figureElement.props['data-action']) }
+          onClick={this._handleFigureClick.bind(this, index, figureElement.props['data-action'])}
           ref={`figure_${index}`}
-          >
+        >
           {figureElement}
           {
             enableHeading &&
@@ -241,7 +247,7 @@ class Coverflow extends Component {
     let move = distance * baseWidth;
 
     if (current - 1 >= 0) {
-      this.setState({ current: current - 1, move: move });
+      this.setState({current: current - 1, move: move});
       TOUCH.lastMove = move;
     }
   }
@@ -255,7 +261,7 @@ class Coverflow extends Component {
     let move = distance * baseWidth;
 
     if (current + 1 < this.props.children.length) {
-      this.setState({ current: current + 1, move: move });
+      this.setState({current: current + 1, move: move});
       TOUCH.lastMove = move;
     }
   }
@@ -311,7 +317,7 @@ class Coverflow extends Component {
       }
     }
   }
-};
+}
 
 Coverflow.propTypes = {
   displayQuantityOfSide: React.PropTypes.number.isRequired,
