@@ -1,0 +1,4073 @@
+include dir /Users/johannesfrohlich/workspace/react-coverflow
+scanning /Users/johannesfrohlich/workspace/react-coverflow
+├─ abbrev@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/abbrev-js
+│  ├─ licenseUrl: https://github.com/isaacs/abbrev-js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ accepts@1.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/accepts
+│  ├─ licenseUrl: https://github.com/jshttp/accepts/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ acorn-jsx@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/RReverser/acorn-jsx
+│  ├─ licenseUrl: https://github.com/RReverser/acorn-jsx/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ acorn@3.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ternjs/acorn
+│  ├─ licenseUrl: https://github.com/ternjs/acorn/raw/master/LICENSE
+│  └─ parents: acorn-jsx:react-coverflow
+├─ acorn@5.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ternjs/acorn
+│  ├─ licenseUrl: https://github.com/ternjs/acorn/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ajv-keywords@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epoberezkin/ajv-keywords
+│  ├─ licenseUrl: https://github.com/epoberezkin/ajv-keywords/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ajv@4.11.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epoberezkin/ajv
+│  ├─ licenseUrl: https://github.com/epoberezkin/ajv/raw/master/LICENSE
+│  └─ parents: table:react-coverflow
+├─ ajv@5.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epoberezkin/ajv
+│  ├─ licenseUrl: https://github.com/epoberezkin/ajv/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ align-text@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/align-text
+│  ├─ licenseUrl: https://github.com/jonschlinkert/align-text/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ alphanum-sort@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TrySound/alphanum-sort
+│  ├─ licenseUrl: https://github.com/TrySound/alphanum-sort/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ amdefine@1.0.1
+│  ├─ licenses: BSD-3-Clause OR MIT
+│  ├─ repository: https://github.com/jrburke/amdefine
+│  ├─ licenseUrl: https://github.com/jrburke/amdefine/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ansi-escapes@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/ansi-escapes
+│  ├─ licenseUrl: https://github.com/sindresorhus/ansi-escapes/raw/master/license
+│  └─ parents: react-coverflow
+├─ ansi-regex@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-regex
+│  ├─ licenseUrl: https://github.com/chalk/ansi-regex/raw/master/license
+│  └─ parents: react-coverflow
+├─ ansi-regex@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-regex
+│  ├─ licenseUrl: https://github.com/chalk/ansi-regex/raw/master/license
+│  └─ parents: string-width:react-coverflow
+├─ ansi-styles@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ licenseUrl: https://github.com/chalk/ansi-styles/raw/master/license
+│  └─ parents: babel-code-frame:react-coverflow
+├─ ansi-styles@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ licenseUrl: https://github.com/chalk/ansi-styles/raw/master/license
+│  └─ parents: react-coverflow
+├─ any-promise@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevinbeaty/any-promise
+│  ├─ licenseUrl: https://github.com/kevinbeaty/any-promise/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ anymatch@1.3.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/es128/anymatch
+│  ├─ licenseUrl: https://github.com/es128/anymatch/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ aproba@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/aproba
+│  ├─ licenseUrl: https://github.com/iarna/aproba/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ aproba@1.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/aproba
+│  ├─ licenseUrl: https://github.com/iarna/aproba/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ are-we-there-yet@1.1.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/are-we-there-yet
+│  ├─ licenseUrl: https://github.com/iarna/are-we-there-yet/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ argparse@1.0.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/argparse
+│  ├─ licenseUrl: https://github.com/nodeca/argparse/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ arr-diff@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/arr-diff
+│  ├─ licenseUrl: https://github.com/jonschlinkert/arr-diff/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ arr-flatten@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/arr-flatten
+│  ├─ licenseUrl: https://github.com/jonschlinkert/arr-flatten/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ array-find-index@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-find-index
+│  ├─ licenseUrl: https://github.com/sindresorhus/array-find-index/raw/master/license
+│  └─ parents: react-coverflow
+├─ array-find@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stefanduberg/array-find
+│  ├─ licenseUrl: https://github.com/stefanduberg/array-find/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ array-flatten@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/blakeembrey/array-flatten
+│  ├─ licenseUrl: https://github.com/blakeembrey/array-flatten/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ array-union@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-union
+│  ├─ licenseUrl: https://github.com/sindresorhus/array-union/raw/master/license
+│  └─ parents: react-coverflow
+├─ array-uniq@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-uniq
+│  ├─ licenseUrl: https://github.com/sindresorhus/array-uniq/raw/master/license
+│  └─ parents: react-coverflow
+├─ array-unique@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/array-unique
+│  ├─ licenseUrl: https://github.com/jonschlinkert/array-unique/blob/master/LICENSE
+│  └─ parents: react-coverflow
+├─ arrify@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/arrify
+│  ├─ licenseUrl: https://github.com/sindresorhus/arrify/raw/master/license
+│  └─ parents: react-coverflow
+├─ asap@2.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kriskowal/asap
+│  ├─ licenseUrl: https://github.com/kriskowal/asap/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ asn1@0.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcavage/node-asn1
+│  ├─ licenseUrl: https://github.com/mcavage/node-asn1/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ assert-plus@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcavage/node-assert-plus
+│  ├─ licenseUrl: https://github.com/mcavage/node-assert-plus
+│  └─ parents: fsevents:react-coverflow
+├─ assert-plus@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcavage/node-assert-plus
+│  ├─ licenseUrl: https://github.com/mcavage/node-assert-plus
+│  └─ parents: react-coverflow
+├─ assert@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/defunctzombie/commonjs-assert
+│  ├─ licenseUrl: https://github.com/defunctzombie/commonjs-assert/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ assertion-error@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chaijs/assertion-error
+│  ├─ licenseUrl: https://github.com/chaijs/assertion-error
+│  └─ parents: react-coverflow
+├─ async-each@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/async-each
+│  ├─ licenseUrl: https://github.com/paulmillr/async-each
+│  └─ parents: react-coverflow
+├─ async-foreach@0.1.3
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/cowboy/javascript-sync-async-foreach
+│  ├─ licenseUrl: https://github.com/cowboy/javascript-sync-async-foreach/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ async@0.2.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  ├─ licenseUrl: https://github.com/caolan/async/raw/master/LICENSE
+│  └─ parents: uglify-js:react-coverflow
+├─ async@0.9.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  ├─ licenseUrl: https://github.com/caolan/async/raw/master/LICENSE
+│  └─ parents: watchpack:react-coverflow
+├─ async@1.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  ├─ licenseUrl: https://github.com/caolan/async/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ async@2.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  ├─ licenseUrl: https://github.com/caolan/async/raw/master/LICENSE
+│  └─ parents: sass-loader:react-coverflow
+├─ asynckit@0.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/alexindigo/asynckit
+│  ├─ licenseUrl: https://github.com/alexindigo/asynckit/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ autoprefixer-loader@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/passy/autoprefixer-loader
+│  ├─ licenseUrl: https://github.com/passy/autoprefixer-loader/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ autoprefixer@6.7.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/autoprefixer
+│  ├─ licenseUrl: https://github.com/postcss/autoprefixer/raw/master/LICENSE
+│  └─ parents: autoprefixer-loader:react-coverflow
+├─ autoprefixer@7.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/autoprefixer
+│  ├─ licenseUrl: https://github.com/postcss/autoprefixer/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ aws-sign2@0.6.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/aws-sign
+│  ├─ licenseUrl: https://github.com/mikeal/aws-sign/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ aws-sign2@0.7.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/aws-sign
+│  ├─ licenseUrl: https://github.com/mikeal/aws-sign/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ aws4@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mhart/aws4
+│  ├─ licenseUrl: https://github.com/mhart/aws4/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ babel-code-frame@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-code-frame
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-code-frame
+│  └─ parents: react-coverflow
+├─ babel-code-frame@7.0.0-beta.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-code-frame
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-code-frame
+│  └─ parents: babel-eslint:react-coverflow
+├─ babel-core@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-core
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-core
+│  └─ parents: react-coverflow
+├─ babel-eslint@8.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel-eslint
+│  ├─ licenseUrl: https://github.com/babel/babel-eslint/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ babel-generator@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-generator
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-generator
+│  └─ parents: react-coverflow
+├─ babel-helper-bindify-decorators@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-bindify-decorators
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-bindify-decorators
+│  └─ parents: react-coverflow
+├─ babel-helper-builder-binary-assignment-operator-visitor@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-builder-binary-assignment-operator-visitor
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-builder-binary-assignment-operator-visitor
+│  └─ parents: react-coverflow
+├─ babel-helper-builder-react-jsx@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-builder-react-jsx
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-builder-react-jsx
+│  └─ parents: react-coverflow
+├─ babel-helper-call-delegate@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-call-delegate
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-call-delegate
+│  └─ parents: react-coverflow
+├─ babel-helper-define-map@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-define-map
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-define-map
+│  └─ parents: react-coverflow
+├─ babel-helper-explode-assignable-expression@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-explode-assignable-expression
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-explode-assignable-expression
+│  └─ parents: react-coverflow
+├─ babel-helper-explode-class@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-explode-class
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-explode-class
+│  └─ parents: react-coverflow
+├─ babel-helper-function-name@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-function-name
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-function-name
+│  └─ parents: babel-helper-remap-async-to-generator:react-coverflow
+├─ babel-helper-function-name@7.0.0-beta.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-function-name
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-function-name
+│  └─ parents: react-coverflow
+├─ babel-helper-get-function-arity@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity
+│  └─ parents: babel-helper-remap-async-to-generator:react-coverflow
+├─ babel-helper-get-function-arity@7.0.0-beta.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity
+│  └─ parents: react-coverflow
+├─ babel-helper-hoist-variables@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-hoist-variables
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-hoist-variables
+│  └─ parents: react-coverflow
+├─ babel-helper-optimise-call-expression@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-optimise-call-expression
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-optimise-call-expression
+│  └─ parents: react-coverflow
+├─ babel-helper-regex@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-regex
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-regex
+│  └─ parents: react-coverflow
+├─ babel-helper-remap-async-to-generator@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-remap-async-to-generator
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-remap-async-to-generator
+│  └─ parents: react-coverflow
+├─ babel-helper-replace-supers@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helper-replace-supers
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helper-replace-supers
+│  └─ parents: react-coverflow
+├─ babel-helpers@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-helpers
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-helpers
+│  └─ parents: react-coverflow
+├─ babel-loader@6.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel-loader
+│  ├─ licenseUrl: https://github.com/babel/babel-loader/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ babel-messages@6.23.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-messages
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-messages
+│  └─ parents: react-coverflow
+├─ babel-messages@7.0.0-beta.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-messages
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-messages
+│  └─ parents: babel-helper-function-name:react-coverflow
+├─ babel-plugin-check-es2015-constants@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-check-es2015-constants
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-check-es2015-constants
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-async-functions@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-functions
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-functions
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-async-generators@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-generators
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-generators
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-class-constructor-call@6.18.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-class-constructor-call
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-class-constructor-call
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-class-properties@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-class-properties
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-class-properties
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-decorators@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-decorators
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-decorators
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-do-expressions@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-do-expressions
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-do-expressions
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-dynamic-import@6.18.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-dynamic-import
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-dynamic-import
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-exponentiation-operator@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-exponentation-operator
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-exponentation-operator
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-export-extensions@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-export-extensions
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-export-extensions
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-flow@6.18.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-flow
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-flow
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-function-bind@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-function-bind
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-function-bind
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-jsx@6.18.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-jsx
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-jsx
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-object-rest-spread@6.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread
+│  └─ parents: react-coverflow
+├─ babel-plugin-syntax-trailing-function-commas@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-trailing-function-commas
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-trailing-function-commas
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-async-generator-functions@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-async-generator-functions
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-async-generator-functions
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-async-to-generator@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-async-to-generator
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-async-to-generator
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-class-constructor-call@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-constructor-call
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-constructor-call
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-class-properties@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-properties
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-properties
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-decorators-legacy@1.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/loganfsmyth/babel-plugin-transform-decorators-legacy
+│  ├─ licenseUrl: https://github.com/loganfsmyth/babel-plugin-transform-decorators-legacy/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-decorators@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-decorators
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-decorators
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-do-expressions@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-do-expressions
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-do-expressions
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-arrow-functions@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-arrow-functions
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-arrow-functions
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-block-scoped-functions@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoped-functions
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoped-functions
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-block-scoping@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoping
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoping
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-classes@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-classes
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-classes
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-computed-properties@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-computed-properties
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-computed-properties
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-destructuring@6.23.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-destructuring
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-destructuring
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-duplicate-keys@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-duplicate-keys
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-duplicate-keys
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-for-of@6.23.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-for-of
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-for-of
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-function-name@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-function-name
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-function-name
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-literals@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-literals
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-literals
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-modules-amd@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-amd
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-amd
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-modules-commonjs@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-commonjs
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-commonjs
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-modules-systemjs@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-systemjs
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-systemjs
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-modules-umd@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-umd
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-umd
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-object-super@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-object-super
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-object-super
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-parameters@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-parameters
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-parameters
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-shorthand-properties@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-shorthand-properties
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-shorthand-properties
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-spread@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-spread
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-spread
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-sticky-regex@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-sticky-regex
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-sticky-regex
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-template-literals@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-template-literals
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-template-literals
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-typeof-symbol@6.23.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-typeof-symbol
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-typeof-symbol
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-es2015-unicode-regex@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-unicode-regex
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-unicode-regex
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-exponentiation-operator@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-exponentiation-operator
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-exponentiation-operator
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-export-extensions@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-export-extensions
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-export-extensions
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-flow-strip-types@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-flow-strip-types
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-flow-strip-types
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-function-bind@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-function-bind
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-function-bind
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-object-rest-spread@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-rest-spread
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-rest-spread
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-react-display-name@6.25.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-display-name
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-display-name
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-react-jsx-self@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-react-jsx-source@6.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-source
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-source
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-react-jsx@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-regenerator@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-regenerator
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-regenerator
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-runtime@6.23.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-runtime
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-runtime
+│  └─ parents: react-coverflow
+├─ babel-plugin-transform-strict-mode@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-strict-mode
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-strict-mode
+│  └─ parents: react-coverflow
+├─ babel-preset-env@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel-preset-env
+│  ├─ licenseUrl: https://github.com/babel/babel-preset-env/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ babel-preset-flow@6.23.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-preset-flow
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-preset-flow
+│  └─ parents: react-coverflow
+├─ babel-preset-react@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-preset-react
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-preset-react
+│  └─ parents: react-coverflow
+├─ babel-preset-stage-0@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-preset-stage-0
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-preset-stage-0
+│  └─ parents: react-coverflow
+├─ babel-preset-stage-1@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-preset-stage-1
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-preset-stage-1
+│  └─ parents: react-coverflow
+├─ babel-preset-stage-2@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2
+│  └─ parents: react-coverflow
+├─ babel-preset-stage-3@6.24.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-preset-stage-3
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-preset-stage-3
+│  └─ parents: react-coverflow
+├─ babel-register@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-register
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-register
+│  └─ parents: react-coverflow
+├─ babel-runtime@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-runtime
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-runtime
+│  └─ parents: react-coverflow
+├─ babel-template@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-template
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-template
+│  └─ parents: react-coverflow
+├─ babel-template@7.0.0-beta.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-template
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-template
+│  └─ parents: babel-helper-function-name:react-coverflow
+├─ babel-traverse@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-traverse
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-traverse
+│  └─ parents: react-coverflow
+├─ babel-traverse@7.0.0-beta.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-traverse
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-traverse
+│  └─ parents: babel-eslint:react-coverflow
+├─ babel-types@6.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-types
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-types
+│  └─ parents: react-coverflow
+├─ babel-types@7.0.0-beta.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel/tree/master/packages/babel-types
+│  ├─ licenseUrl: https://github.com/babel/babel/tree/master/packages/babel-types
+│  └─ parents: babel-helper-get-function-arity:react-coverflow
+├─ babylon@6.18.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babylon
+│  ├─ licenseUrl: https://github.com/babel/babylon/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ babylon@7.0.0-beta.22
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babylon
+│  ├─ licenseUrl: https://github.com/babel/babylon/raw/master/LICENSE
+│  └─ parents: babel-helper-function-name:react-coverflow
+├─ balanced-match@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  ├─ licenseUrl: https://github.com/juliangruber/balanced-match
+│  └─ parents: css-color-function:react-coverflow
+├─ balanced-match@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  ├─ licenseUrl: https://github.com/juliangruber/balanced-match/raw/master/LICENSE.md
+│  └─ parents: postcss-custom-selectors:react-coverflow
+├─ balanced-match@0.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  ├─ licenseUrl: https://github.com/juliangruber/balanced-match/raw/master/LICENSE.md
+│  └─ parents: reduce-css-calc:react-coverflow
+├─ balanced-match@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  ├─ licenseUrl: https://github.com/juliangruber/balanced-match/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ base64-js@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/beatgammit/base64-js
+│  ├─ licenseUrl: https://github.com/beatgammit/base64-js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ batch@0.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/batch
+│  ├─ licenseUrl: https://github.com/visionmedia/batch/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ bcrypt-pbkdf@1.0.1
+│  ├─ licenses: BSD-3-Clause
+│  └─ parents: react-coverflow
+├─ big.js@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/MikeMcl/big.js
+│  ├─ licenseUrl: https://github.com/MikeMcl/big.js/raw/master/LICENCE
+│  └─ parents: react-coverflow
+├─ binary-extensions@1.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/binary-extensions
+│  ├─ licenseUrl: https://github.com/sindresorhus/binary-extensions/raw/master/license
+│  └─ parents: react-coverflow
+├─ block-stream@0.0.9
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/block-stream
+│  ├─ licenseUrl: https://github.com/isaacs/block-stream/raw/master/LICENCE
+│  └─ parents: react-coverflow
+├─ boom@2.10.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/boom
+│  ├─ licenseUrl: https://github.com/hapijs/boom/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ boom@4.3.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/boom
+│  ├─ licenseUrl: https://github.com/hapijs/boom/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ boom@5.2.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/boom
+│  ├─ licenseUrl: https://github.com/hapijs/boom/raw/master/LICENSE
+│  └─ parents: cryptiles:react-coverflow
+├─ bowser@1.7.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ded/bowser
+│  ├─ licenseUrl: https://github.com/ded/bowser/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ brace-expansion@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  ├─ licenseUrl: https://github.com/juliangruber/brace-expansion
+│  └─ parents: fsevents:react-coverflow
+├─ brace-expansion@1.1.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  ├─ licenseUrl: https://github.com/juliangruber/brace-expansion
+│  └─ parents: react-coverflow
+├─ braces@1.8.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/braces
+│  ├─ licenseUrl: https://github.com/jonschlinkert/braces/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ browser-stdout@1.3.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/kumavis/browser-stdout
+│  ├─ licenseUrl: https://github.com/kumavis/browser-stdout
+│  └─ parents: react-coverflow
+├─ browserify-aes@0.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/browserify-aes
+│  ├─ licenseUrl: https://github.com/calvinmetcalf/browserify-aes
+│  └─ parents: react-coverflow
+├─ browserify-zlib@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/devongovett/browserify-zlib
+│  ├─ licenseUrl: https://github.com/devongovett/browserify-zlib
+│  └─ parents: react-coverflow
+├─ browserslist@1.7.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ai/browserslist
+│  ├─ licenseUrl: https://github.com/ai/browserslist/raw/master/LICENSE
+│  └─ parents: caniuse-api:react-coverflow
+├─ browserslist@2.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ai/browserslist
+│  ├─ licenseUrl: https://github.com/ai/browserslist/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ buffer-shims@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/buffer-shims
+│  ├─ licenseUrl: https://github.com/calvinmetcalf/buffer-shims/raw/master/license.md
+│  └─ parents: fsevents:react-coverflow
+├─ buffer@4.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/buffer
+│  ├─ licenseUrl: https://github.com/feross/buffer/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ builtin-modules@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/builtin-modules
+│  ├─ licenseUrl: https://github.com/sindresorhus/builtin-modules/raw/master/license
+│  └─ parents: react-coverflow
+├─ builtin-status-codes@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/builtin-status-codes
+│  ├─ licenseUrl: https://github.com/bendrucker/builtin-status-codes/raw/master/license
+│  └─ parents: react-coverflow
+├─ bytes@2.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/bytes.js
+│  ├─ licenseUrl: https://github.com/visionmedia/bytes.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ caller-path@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/caller-path
+│  ├─ licenseUrl: https://github.com/sindresorhus/caller-path
+│  └─ parents: react-coverflow
+├─ callsites@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/callsites
+│  ├─ licenseUrl: https://github.com/sindresorhus/callsites
+│  └─ parents: react-coverflow
+├─ camelcase-keys@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/camelcase-keys
+│  ├─ licenseUrl: https://github.com/sindresorhus/camelcase-keys/raw/master/license
+│  └─ parents: react-coverflow
+├─ camelcase@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/camelcase
+│  ├─ licenseUrl: https://github.com/sindresorhus/camelcase/raw/master/license
+│  └─ parents: uglify-js:react-coverflow
+├─ camelcase@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/camelcase
+│  ├─ licenseUrl: https://github.com/sindresorhus/camelcase/raw/master/license
+│  └─ parents: react-coverflow
+├─ camelcase@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/camelcase
+│  ├─ licenseUrl: https://github.com/sindresorhus/camelcase/raw/master/license
+│  └─ parents: yargs:react-coverflow
+├─ caniuse-api@1.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nyalab/caniuse-api
+│  ├─ licenseUrl: https://github.com/nyalab/caniuse-api/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ caniuse-db@1.0.30000733
+│  ├─ licenses: CC-BY-4.0
+│  ├─ repository: https://github.com/Fyrd/caniuse
+│  ├─ licenseUrl: https://github.com/Fyrd/caniuse/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ caniuse-lite@1.0.30000733
+│  ├─ licenses: CC-BY-4.0
+│  ├─ repository: https://github.com/ben-eb/caniuse-lite
+│  ├─ licenseUrl: https://github.com/ben-eb/caniuse-lite/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ caseless@0.12.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/caseless
+│  ├─ licenseUrl: https://github.com/mikeal/caseless/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ center-align@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/center-align
+│  ├─ licenseUrl: https://github.com/jonschlinkert/center-align/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ chai@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chaijs/chai
+│  ├─ licenseUrl: https://github.com/chaijs/chai/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ chalk@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  ├─ licenseUrl: https://github.com/chalk/chalk/raw/master/license
+│  └─ parents: babel-code-frame:react-coverflow
+├─ chalk@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  ├─ licenseUrl: https://github.com/chalk/chalk/raw/master/license
+│  └─ parents: react-coverflow
+├─ check-error@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chaijs/check-error
+│  ├─ licenseUrl: https://github.com/chaijs/check-error/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ chokidar@1.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/chokidar
+│  ├─ licenseUrl: https://github.com/paulmillr/chokidar
+│  └─ parents: react-coverflow
+├─ circular-json@0.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/WebReflection/circular-json
+│  ├─ licenseUrl: https://github.com/WebReflection/circular-json/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ clap@1.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lahmatiy/clap
+│  ├─ licenseUrl: https://github.com/lahmatiy/clap/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ cli-cursor@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/cli-cursor
+│  ├─ licenseUrl: https://github.com/sindresorhus/cli-cursor/raw/master/license
+│  └─ parents: react-coverflow
+├─ cli-width@2.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/knownasilya/cli-width
+│  ├─ licenseUrl: https://github.com/knownasilya/cli-width/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ cliui@2.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/bcoe/cliui
+│  ├─ licenseUrl: https://github.com/bcoe/cliui/raw/master/LICENSE.txt
+│  └─ parents: uglify-js:react-coverflow
+├─ cliui@3.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/cliui
+│  ├─ licenseUrl: https://github.com/yargs/cliui/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ clone@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pvorb/node-clone
+│  ├─ licenseUrl: https://github.com/pvorb/node-clone/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ co@4.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/co
+│  ├─ licenseUrl: https://github.com/tj/co/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ coa@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/veged/coa
+│  ├─ licenseUrl: https://github.com/veged/coa
+│  └─ parents: react-coverflow
+├─ code-point-at@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/code-point-at
+│  ├─ licenseUrl: https://github.com/sindresorhus/code-point-at/raw/master/license
+│  └─ parents: react-coverflow
+├─ color-convert@1.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/qix-/color-convert
+│  ├─ licenseUrl: https://github.com/qix-/color-convert/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ color-name@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dfcreative/color-name
+│  ├─ licenseUrl: https://github.com/dfcreative/color-name/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ color-string@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/harthur/color-string
+│  ├─ licenseUrl: https://github.com/harthur/color-string/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ color@0.11.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/qix-/color
+│  ├─ licenseUrl: https://github.com/qix-/color/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ colormin@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/colormin
+│  ├─ licenseUrl: https://github.com/ben-eb/colormin/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ colors@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Marak/colors.js
+│  ├─ licenseUrl: https://github.com/Marak/colors.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ combined-stream@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-combined-stream
+│  ├─ licenseUrl: https://github.com/felixge/node-combined-stream/raw/master/License
+│  └─ parents: react-coverflow
+├─ commander@2.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/commander.js
+│  ├─ licenseUrl: https://github.com/tj/commander.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ commondir@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-commondir
+│  ├─ licenseUrl: https://github.com/substack/node-commondir/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ compressible@2.0.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/compressible
+│  ├─ licenseUrl: https://github.com/jshttp/compressible/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ compression@1.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/compression
+│  ├─ licenseUrl: https://github.com/expressjs/compression/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ concat-map@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-concat-map
+│  ├─ licenseUrl: https://github.com/substack/node-concat-map/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ concat-stream@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/maxogden/concat-stream
+│  ├─ licenseUrl: https://github.com/maxogden/concat-stream/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ connect-history-api-fallback@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bripkens/connect-history-api-fallback
+│  ├─ licenseUrl: https://github.com/bripkens/connect-history-api-fallback/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ console-browserify@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/console-browserify
+│  ├─ licenseUrl: http://github.com/Raynos/console-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ console-control-strings@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/console-control-strings
+│  ├─ licenseUrl: https://github.com/iarna/console-control-strings/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ constants-browserify@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/constants-browserify
+│  ├─ licenseUrl: https://github.com/juliangruber/constants-browserify
+│  └─ parents: react-coverflow
+├─ content-disposition@0.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-disposition
+│  ├─ licenseUrl: https://github.com/jshttp/content-disposition/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ content-type@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-type
+│  ├─ licenseUrl: https://github.com/jshttp/content-type/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ convert-source-map@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/convert-source-map
+│  ├─ licenseUrl: https://github.com/thlorenz/convert-source-map/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ cookie-signature@1.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-cookie-signature
+│  ├─ licenseUrl: https://github.com/visionmedia/node-cookie-signature
+│  └─ parents: react-coverflow
+├─ cookie@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/cookie
+│  ├─ licenseUrl: https://github.com/jshttp/cookie/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ core-js@1.2.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zloirock/core-js
+│  ├─ licenseUrl: https://github.com/zloirock/core-js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ core-js@2.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zloirock/core-js
+│  ├─ licenseUrl: https://github.com/zloirock/core-js/raw/master/LICENSE
+│  └─ parents: babel-runtime:react-coverflow
+├─ core-util-is@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/core-util-is
+│  ├─ licenseUrl: https://github.com/isaacs/core-util-is/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ cosmiconfig@2.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidtheclark/cosmiconfig
+│  ├─ licenseUrl: https://github.com/davidtheclark/cosmiconfig/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ create-react-class@15.6.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ licenseUrl: https://github.com/facebook/react/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ cross-spawn@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/IndigoUnited/node-cross-spawn
+│  ├─ licenseUrl: https://github.com/IndigoUnited/node-cross-spawn/raw/master/LICENSE
+│  └─ parents: node-sass:react-coverflow
+├─ cross-spawn@5.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/IndigoUnited/node-cross-spawn
+│  ├─ licenseUrl: https://github.com/IndigoUnited/node-cross-spawn/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ cryptiles@2.0.5
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/cryptiles
+│  ├─ licenseUrl: https://github.com/hapijs/cryptiles/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ cryptiles@3.1.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/cryptiles
+│  ├─ licenseUrl: https://github.com/hapijs/cryptiles/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ crypto-browserify@3.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/crypto-browserify
+│  ├─ licenseUrl: https://github.com/dominictarr/crypto-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ css-color-function@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ianstormtaylor/css-color-function
+│  ├─ licenseUrl: https://github.com/ianstormtaylor/css-color-function
+│  └─ parents: react-coverflow
+├─ css-color-names@0.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bahamas10/css-color-names
+│  ├─ licenseUrl: https://github.com/bahamas10/css-color-names
+│  └─ parents: react-coverflow
+├─ css-loader@0.28.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/css-loader
+│  ├─ licenseUrl: https://github.com/webpack/css-loader/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ css-selector-tokenizer@0.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/css-modules/css-selector-tokenizer
+│  ├─ licenseUrl: https://github.com/css-modules/css-selector-tokenizer
+│  └─ parents: react-coverflow
+├─ cssesc@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/cssesc
+│  ├─ licenseUrl: http://mths.be/mit
+│  └─ parents: react-coverflow
+├─ cssnano@3.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/cssnano
+│  ├─ licenseUrl: https://github.com/ben-eb/cssnano/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ csso@2.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/css/csso
+│  ├─ licenseUrl: https://github.com/css/csso/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ currently-unhandled@0.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jamestalmage/currently-unhandled
+│  ├─ licenseUrl: https://github.com/jamestalmage/currently-unhandled/raw/master/license
+│  └─ parents: react-coverflow
+├─ dashdash@1.14.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/trentm/node-dashdash
+│  ├─ licenseUrl: https://github.com/trentm/node-dashdash/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ date-now@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Colingo/date-now
+│  ├─ licenseUrl: http://github.com/Colingo/date-now/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ debug@0.7.4
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/visionmedia/debug
+│  ├─ licenseUrl: https://github.com/visionmedia/debug
+│  └─ parents: css-color-function:react-coverflow
+├─ debug@2.6.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/debug
+│  ├─ licenseUrl: https://github.com/visionmedia/debug/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ debug@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/debug
+│  ├─ licenseUrl: https://github.com/visionmedia/debug/raw/master/LICENSE
+│  └─ parents: babel-helper-function-name:react-coverflow
+├─ decamelize@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/decamelize
+│  ├─ licenseUrl: https://github.com/sindresorhus/decamelize/raw/master/license
+│  └─ parents: react-coverflow
+├─ deep-eql@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chaijs/deep-eql
+│  ├─ licenseUrl: https://github.com/chaijs/deep-eql/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ deep-extend@0.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unclechu/node-deep-extend
+│  ├─ licenseUrl: https://github.com/unclechu/node-deep-extend/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ deep-is@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/deep-is
+│  ├─ licenseUrl: https://github.com/thlorenz/deep-is/blob/master/LICENSE
+│  └─ parents: react-coverflow
+├─ defined@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/defined
+│  ├─ licenseUrl: https://github.com/substack/defined/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ del@2.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/del
+│  ├─ licenseUrl: https://github.com/sindresorhus/del/raw/master/license
+│  └─ parents: react-coverflow
+├─ delayed-stream@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-delayed-stream
+│  ├─ licenseUrl: https://github.com/felixge/node-delayed-stream/raw/master/License
+│  └─ parents: react-coverflow
+├─ delegates@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-delegates
+│  ├─ licenseUrl: https://github.com/visionmedia/node-delegates/raw/master/License
+│  └─ parents: react-coverflow
+├─ depd@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dougwilson/nodejs-depd
+│  ├─ licenseUrl: https://github.com/dougwilson/nodejs-depd/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ destroy@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/destroy
+│  ├─ licenseUrl: https://github.com/stream-utils/destroy/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ detect-indent@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/detect-indent
+│  ├─ licenseUrl: https://github.com/sindresorhus/detect-indent/raw/master/license
+│  └─ parents: react-coverflow
+├─ diff@3.2.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/kpdecker/jsdiff
+│  ├─ licenseUrl: https://github.com/kpdecker/jsdiff/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ doctrine@2.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/eslint/doctrine
+│  ├─ licenseUrl: https://github.com/eslint/doctrine/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ domain-browser@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bevry/domain-browser
+│  ├─ licenseUrl: https://github.com/bevry/domain-browser/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ ecc-jsbn@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/quartzjer/ecc-jsbn
+│  ├─ licenseUrl: https://github.com/quartzjer/ecc-jsbn/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ee-first@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonathanong/ee-first
+│  ├─ licenseUrl: https://github.com/jonathanong/ee-first/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ electron-to-chromium@1.3.21
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/kilian/electron-to-chromium/
+│  ├─ licenseUrl: https://github.com/kilian/electron-to-chromium/
+│  └─ parents: react-coverflow
+├─ emojis-list@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kikobeats/emojis-list
+│  ├─ licenseUrl: https://github.com/kikobeats/emojis-list/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ encodeurl@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/encodeurl
+│  ├─ licenseUrl: https://github.com/pillarjs/encodeurl/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ encoding@0.1.12
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/andris9/encoding
+│  ├─ licenseUrl: https://github.com/andris9/encoding/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ enhanced-resolve@0.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/enhanced-resolve
+│  ├─ licenseUrl: http://www.opensource.org/licenses/mit-license.php
+│  └─ parents: react-coverflow
+├─ errno@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/node-errno
+│  ├─ licenseUrl: https://github.com/rvagg/node-errno
+│  └─ parents: react-coverflow
+├─ error-ex@1.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/qix-/node-error-ex
+│  ├─ licenseUrl: https://github.com/qix-/node-error-ex/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ escape-html@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/escape-html
+│  ├─ licenseUrl: https://github.com/component/escape-html/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ escape-string-regexp@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/escape-string-regexp
+│  ├─ licenseUrl: https://github.com/sindresorhus/escape-string-regexp/raw/master/license
+│  └─ parents: react-coverflow
+├─ eslint-loader@1.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/MoOx/eslint-loader
+│  ├─ licenseUrl: https://github.com/MoOx/eslint-loader/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ eslint-scope@3.7.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/eslint/eslint-scope
+│  ├─ licenseUrl: https://github.com/eslint/eslint-scope/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ eslint@4.7.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/eslint/eslint
+│  ├─ licenseUrl: https://github.com/eslint/eslint/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ espree@3.5.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/eslint/espree
+│  ├─ licenseUrl: https://github.com/eslint/espree/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ esprima@2.7.3
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jquery/esprima
+│  ├─ licenseUrl: https://github.com/jquery/esprima/raw/master/LICENSE.BSD
+│  └─ parents: react-coverflow
+├─ esprima@4.0.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jquery/esprima
+│  ├─ licenseUrl: https://github.com/jquery/esprima/raw/master/LICENSE.BSD
+│  └─ parents: eslint:react-coverflow
+├─ esquery@1.0.0
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/jrfeenst/esquery
+│  ├─ licenseUrl: https://github.com/jrfeenst/esquery/raw/master/license.txt
+│  └─ parents: react-coverflow
+├─ esrecurse@4.2.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/estools/esrecurse
+│  ├─ licenseUrl: https://github.com/estools/esrecurse
+│  └─ parents: react-coverflow
+├─ estraverse@4.2.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/estools/estraverse
+│  ├─ licenseUrl: https://github.com/estools/estraverse/raw/master/LICENSE.BSD
+│  └─ parents: react-coverflow
+├─ esutils@2.0.2
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/estools/esutils
+│  ├─ licenseUrl: http://github.com/estools/esutils/raw/master/LICENSE.BSD
+│  └─ parents: react-coverflow
+├─ etag@1.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/etag
+│  ├─ licenseUrl: https://github.com/jshttp/etag/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ eventemitter3@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/primus/eventemitter3
+│  ├─ licenseUrl: https://github.com/primus/eventemitter3/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ events@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Gozala/events
+│  ├─ licenseUrl: https://github.com/Gozala/events/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ eventsource@0.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/aslakhellesoy/eventsource-node
+│  ├─ licenseUrl: http://github.com/aslakhellesoy/eventsource-node/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ exenv@1.2.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/JedWatson/exenv
+│  ├─ licenseUrl: https://github.com/JedWatson/exenv/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ expand-brackets@0.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/expand-brackets
+│  ├─ licenseUrl: https://github.com/jonschlinkert/expand-brackets/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ expand-range@1.8.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/expand-range
+│  ├─ licenseUrl: https://github.com/jonschlinkert/expand-range/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ express@4.15.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/express
+│  ├─ licenseUrl: https://github.com/expressjs/express/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ extend@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/justmoon/node-extend
+│  ├─ licenseUrl: https://github.com/justmoon/node-extend/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ external-editor@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mrkmg/node-external-editor
+│  ├─ licenseUrl: https://github.com/mrkmg/node-external-editor/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ extglob@0.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/extglob
+│  ├─ licenseUrl: https://github.com/jonschlinkert/extglob/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ extract-text-webpack-plugin@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/extract-text-webpack-plugin
+│  ├─ licenseUrl: https://github.com/webpack/extract-text-webpack-plugin
+│  └─ parents: react-coverflow
+├─ extsprintf@1.0.2
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/davepacheco/node-extsprintf
+│  ├─ licenseUrl: https://github.com/davepacheco/node-extsprintf/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ extsprintf@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davepacheco/node-extsprintf
+│  ├─ licenseUrl: https://github.com/davepacheco/node-extsprintf/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fast-deep-equal@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epoberezkin/fast-deep-equal
+│  ├─ licenseUrl: https://github.com/epoberezkin/fast-deep-equal/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fast-levenshtein@2.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hiddentao/fast-levenshtein
+│  ├─ licenseUrl: https://github.com/hiddentao/fast-levenshtein/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ fastparse@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/fastparse
+│  ├─ licenseUrl: https://github.com/webpack/fastparse
+│  └─ parents: react-coverflow
+├─ faye-websocket@0.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/faye/faye-websocket-node
+│  ├─ licenseUrl: https://github.com/faye/faye-websocket-node
+│  └─ parents: react-coverflow
+├─ faye-websocket@0.11.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/faye/faye-websocket-node
+│  ├─ licenseUrl: https://github.com/faye/faye-websocket-node
+│  └─ parents: sockjs-client:react-coverflow
+├─ fbjs@0.8.15
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/facebook/fbjs
+│  ├─ licenseUrl: https://github.com/facebook/fbjs/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ figures@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/figures
+│  ├─ licenseUrl: https://github.com/sindresorhus/figures/raw/master/license
+│  └─ parents: react-coverflow
+├─ file-entry-cache@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/royriojas/file-entry-cache
+│  ├─ licenseUrl: https://github.com/royriojas/file-entry-cache/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ file-loader@0.11.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/file-loader
+│  ├─ licenseUrl: https://github.com/webpack/file-loader/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ filename-regex@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/regexhq/filename-regex
+│  ├─ licenseUrl: https://github.com/regexhq/filename-regex/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fill-range@2.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/fill-range
+│  ├─ licenseUrl: https://github.com/jonschlinkert/fill-range/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ finalhandler@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/finalhandler
+│  ├─ licenseUrl: https://github.com/pillarjs/finalhandler/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ find-cache-dir@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jamestalmage/find-cache-dir
+│  ├─ licenseUrl: https://github.com/jamestalmage/find-cache-dir/raw/master/license
+│  └─ parents: react-coverflow
+├─ find-up@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/find-up
+│  ├─ licenseUrl: https://github.com/sindresorhus/find-up/raw/master/license
+│  └─ parents: react-coverflow
+├─ flat-cache@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/royriojas/flat-cache
+│  ├─ licenseUrl: https://github.com/royriojas/flat-cache/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ flatten@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jesusabdullah/node-flatten
+│  ├─ licenseUrl: https://github.com/jesusabdullah/node-flatten/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ for-in@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/for-in
+│  ├─ licenseUrl: https://github.com/jonschlinkert/for-in/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ for-own@0.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/for-own
+│  ├─ licenseUrl: https://github.com/jonschlinkert/for-own/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ forever-agent@0.6.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/forever-agent
+│  ├─ licenseUrl: https://github.com/mikeal/forever-agent/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ form-data@2.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/form-data/form-data
+│  ├─ licenseUrl: https://github.com/form-data/form-data/raw/master/License
+│  └─ parents: fsevents:react-coverflow
+├─ form-data@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/form-data/form-data
+│  ├─ licenseUrl: https://github.com/form-data/form-data/raw/master/License
+│  └─ parents: react-coverflow
+├─ forwarded@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/forwarded
+│  ├─ licenseUrl: https://github.com/jshttp/forwarded/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fresh@0.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/fresh
+│  ├─ licenseUrl: https://github.com/jshttp/fresh/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fs-extra@0.24.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jprichardson/node-fs-extra
+│  ├─ licenseUrl: https://github.com/jprichardson/node-fs-extra/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fs-promise@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevinbeaty/fs-promise
+│  ├─ licenseUrl: https://github.com/kevinbeaty/fs-promise/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fs.realpath@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fs.realpath
+│  ├─ licenseUrl: https://github.com/isaacs/fs.realpath/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fsevents@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/strongloop/fsevents
+│  ├─ licenseUrl: https://github.com/strongloop/fsevents/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ fstream-ignore@1.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fstream-ignore
+│  ├─ licenseUrl: https://github.com/isaacs/fstream-ignore/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ fstream@1.0.11
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/fstream
+│  ├─ licenseUrl: https://github.com/npm/fstream/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ function-bind@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ licenseUrl: https://github.com/Raynos/function-bind/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ functional-red-black-tree@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mikolalysenko/functional-red-black-tree
+│  ├─ licenseUrl: https://github.com/mikolalysenko/functional-red-black-tree/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ gauge@2.7.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/gauge
+│  ├─ licenseUrl: https://github.com/iarna/gauge/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ gaze@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shama/gaze
+│  ├─ licenseUrl: https://github.com/shama/gaze/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ get-caller-file@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/stefanpenner/get-caller-file
+│  ├─ licenseUrl: https://github.com/stefanpenner/get-caller-file
+│  └─ parents: react-coverflow
+├─ get-func-name@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chaijs/get-func-name
+│  ├─ licenseUrl: https://github.com/chaijs/get-func-name/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ get-stdin@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/get-stdin
+│  ├─ licenseUrl: https://github.com/sindresorhus/get-stdin
+│  └─ parents: react-coverflow
+├─ getpass@0.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arekinath/node-getpass
+│  ├─ licenseUrl: https://github.com/arekinath/node-getpass/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ glob-base@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/glob-base
+│  ├─ licenseUrl: https://github.com/jonschlinkert/glob-base/blob/master/LICENSE
+│  └─ parents: react-coverflow
+├─ glob-parent@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/es128/glob-parent
+│  ├─ licenseUrl: https://github.com/es128/glob-parent/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ glob@5.0.15
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ licenseUrl: https://github.com/isaacs/node-glob/raw/master/LICENSE
+│  └─ parents: postcss-mixins:react-coverflow
+├─ glob@7.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ licenseUrl: https://github.com/isaacs/node-glob/raw/master/LICENSE
+│  └─ parents: mocha:react-coverflow
+├─ glob@7.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ licenseUrl: https://github.com/isaacs/node-glob/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ globals@10.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/globals
+│  ├─ licenseUrl: https://github.com/sindresorhus/globals/raw/master/license
+│  └─ parents: babel-helper-function-name:react-coverflow
+├─ globals@9.18.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/globals
+│  ├─ licenseUrl: https://github.com/sindresorhus/globals/raw/master/license
+│  └─ parents: react-coverflow
+├─ globby@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/globby
+│  ├─ licenseUrl: https://github.com/sindresorhus/globby/raw/master/license
+│  └─ parents: postcss-mixins:react-coverflow
+├─ globby@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/globby
+│  ├─ licenseUrl: https://github.com/sindresorhus/globby/raw/master/license
+│  └─ parents: react-coverflow
+├─ globule@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cowboy/node-globule
+│  ├─ licenseUrl: https://github.com/cowboy/node-globule/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ graceful-fs@4.1.11
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-graceful-fs
+│  ├─ licenseUrl: https://github.com/isaacs/node-graceful-fs/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ graceful-readlink@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zhiyelee/graceful-readlink
+│  ├─ licenseUrl: https://github.com/zhiyelee/graceful-readlink/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ growl@1.9.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/node-growl
+│  ├─ licenseUrl: https://github.com/tj/node-growl
+│  └─ parents: react-coverflow
+├─ har-schema@1.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/ahmadnassri/har-schema
+│  ├─ licenseUrl: https://github.com/ahmadnassri/har-schema/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ har-schema@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/ahmadnassri/har-schema
+│  ├─ licenseUrl: https://github.com/ahmadnassri/har-schema/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ har-validator@4.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/ahmadnassri/har-validator
+│  ├─ licenseUrl: https://github.com/ahmadnassri/har-validator/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ har-validator@5.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/ahmadnassri/har-validator
+│  ├─ licenseUrl: https://github.com/ahmadnassri/har-validator/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ has-ansi@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-ansi
+│  ├─ licenseUrl: https://github.com/sindresorhus/has-ansi/raw/master/license
+│  └─ parents: react-coverflow
+├─ has-flag@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  ├─ licenseUrl: https://github.com/sindresorhus/has-flag/raw/master/license
+│  └─ parents: mocha:react-coverflow
+├─ has-flag@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  ├─ licenseUrl: https://github.com/sindresorhus/has-flag/raw/master/license
+│  └─ parents: react-coverflow
+├─ has-unicode@2.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/has-unicode
+│  ├─ licenseUrl: https://github.com/iarna/has-unicode/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ has@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tarruda/has
+│  ├─ licenseUrl: https://github.com/tarruda/has/blob/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ hawk@3.1.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hueniverse/hawk
+│  ├─ licenseUrl: https://github.com/hueniverse/hawk/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ hawk@6.0.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hueniverse/hawk
+│  ├─ licenseUrl: https://github.com/hueniverse/hawk/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ he@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/he
+│  ├─ licenseUrl: https://github.com/mathiasbynens/he/raw/master/LICENSE-MIT.txt
+│  └─ parents: react-coverflow
+├─ hoek@2.16.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/hoek
+│  ├─ licenseUrl: https://github.com/hapijs/hoek/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ hoek@4.2.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/hoek
+│  ├─ licenseUrl: https://github.com/hapijs/hoek/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ home-or-tmp@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/home-or-tmp
+│  ├─ licenseUrl: https://github.com/sindresorhus/home-or-tmp/raw/master/license
+│  └─ parents: react-coverflow
+├─ hosted-git-info@2.5.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/hosted-git-info
+│  ├─ licenseUrl: https://github.com/npm/hosted-git-info/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ html-comment-regex@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stevemao/html-comment-regex
+│  ├─ licenseUrl: https://github.com/stevemao/html-comment-regex
+│  └─ parents: react-coverflow
+├─ http-errors@1.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/http-errors
+│  ├─ licenseUrl: https://github.com/jshttp/http-errors/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ http-parser-js@0.4.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/creationix/http-parser-js
+│  ├─ licenseUrl: https://github.com/creationix/http-parser-js/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ http-proxy-middleware@0.17.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chimurai/http-proxy-middleware
+│  ├─ licenseUrl: https://github.com/chimurai/http-proxy-middleware/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ http-proxy@1.16.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejitsu/node-http-proxy
+│  ├─ licenseUrl: https://github.com/nodejitsu/node-http-proxy/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ http-signature@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/joyent/node-http-signature
+│  ├─ licenseUrl: https://github.com/joyent/node-http-signature/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ http-signature@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/joyent/node-http-signature
+│  ├─ licenseUrl: https://github.com/joyent/node-http-signature/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ https-browserify@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/https-browserify
+│  ├─ licenseUrl: https://github.com/substack/https-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ hyphenate-style-name@1.0.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/rexxars/hyphenate-style-name
+│  ├─ licenseUrl: https://github.com/rexxars/hyphenate-style-name/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ iconv-lite@0.4.19
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ashtuchkin/iconv-lite
+│  ├─ licenseUrl: https://github.com/ashtuchkin/iconv-lite/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ icss-replace-symbols@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/css-modules/icss-replace-symbols
+│  ├─ licenseUrl: https://github.com/css-modules/icss-replace-symbols
+│  └─ parents: react-coverflow
+├─ icss-utils@2.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/css-modules/icss-utils
+│  ├─ licenseUrl: https://github.com/css-modules/icss-utils
+│  └─ parents: react-coverflow
+├─ ieee754@1.1.8
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/feross/ieee754
+│  ├─ licenseUrl: https://github.com/feross/ieee754/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ignore@3.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kaelzhang/node-ignore
+│  ├─ licenseUrl: https://github.com/kaelzhang/node-ignore/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ imurmurhash@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jensyt/imurmurhash-js
+│  ├─ licenseUrl: https://github.com/jensyt/imurmurhash-js
+│  └─ parents: react-coverflow
+├─ in-publish@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/in-publish
+│  ├─ licenseUrl: https://github.com/iarna/in-publish/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ indent-string@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/indent-string
+│  ├─ licenseUrl: https://github.com/sindresorhus/indent-string/raw/master/license
+│  └─ parents: react-coverflow
+├─ indexes-of@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/indexes-of
+│  ├─ licenseUrl: https://github.com/dominictarr/indexes-of/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ indexof@0.0.1
+│  ├─ licenses: UNKNOWN
+│  └─ parents: react-coverflow
+├─ inflight@1.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/inflight
+│  ├─ licenseUrl: https://github.com/npm/inflight/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ inherits@2.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ licenseUrl: https://github.com/isaacs/inherits/raw/master/LICENSE
+│  └─ parents: util:react-coverflow
+├─ inherits@2.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ licenseUrl: https://github.com/isaacs/inherits/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ini@1.3.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/ini
+│  ├─ licenseUrl: https://github.com/isaacs/ini/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ inline-style-prefixer@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rofrischmann/inline-style-prefixer
+│  ├─ licenseUrl: https://github.com/rofrischmann/inline-style-prefixer/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ inquirer@3.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/SBoudrias/Inquirer.js
+│  ├─ licenseUrl: https://github.com/SBoudrias/Inquirer.js
+│  └─ parents: react-coverflow
+├─ interpret@0.6.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tkellen/node-interpret
+│  ├─ licenseUrl: https://github.com/tkellen/node-interpret/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ invariant@2.2.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/zertosh/invariant
+│  ├─ licenseUrl: https://github.com/zertosh/invariant/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ invert-kv@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/invert-kv
+│  ├─ licenseUrl: https://github.com/sindresorhus/invert-kv
+│  └─ parents: react-coverflow
+├─ ipaddr.js@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/whitequark/ipaddr.js
+│  ├─ licenseUrl: https://github.com/whitequark/ipaddr.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-absolute-url@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-absolute-url
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-absolute-url/raw/master/license
+│  └─ parents: react-coverflow
+├─ is-arrayish@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/qix-/node-is-arrayish
+│  ├─ licenseUrl: https://github.com/qix-/node-is-arrayish/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-binary-path@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-binary-path
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-binary-path/raw/master/license
+│  └─ parents: react-coverflow
+├─ is-buffer@1.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/is-buffer
+│  ├─ licenseUrl: https://github.com/feross/is-buffer/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-builtin-module@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-builtin-module
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-builtin-module/raw/master/license
+│  └─ parents: react-coverflow
+├─ is-directory@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-directory
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-directory/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-dotfile@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-dotfile
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-dotfile/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-equal-shallow@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-equal-shallow
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-equal-shallow/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-extendable@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extendable
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-extendable/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-extglob@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extglob
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-extglob/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-extglob@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extglob
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-extglob/raw/master/LICENSE
+│  └─ parents: http-proxy-middleware:react-coverflow
+├─ is-finite@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-finite
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-finite/raw/master/license
+│  └─ parents: react-coverflow
+├─ is-fullwidth-code-point@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-fullwidth-code-point
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-fullwidth-code-point/raw/master/license
+│  └─ parents: gauge:react-coverflow
+├─ is-fullwidth-code-point@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-fullwidth-code-point
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-fullwidth-code-point/raw/master/license
+│  └─ parents: react-coverflow
+├─ is-glob@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-glob
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-glob/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-glob@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-glob
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-glob/raw/master/LICENSE
+│  └─ parents: http-proxy-middleware:react-coverflow
+├─ is-number@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-number
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-number/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-number@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-number
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-number/raw/master/LICENSE
+│  └─ parents: randomatic:react-coverflow
+├─ is-path-cwd@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-path-cwd
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-path-cwd
+│  └─ parents: react-coverflow
+├─ is-path-in-cwd@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-path-in-cwd
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-path-in-cwd
+│  └─ parents: react-coverflow
+├─ is-path-inside@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-path-inside
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-path-inside
+│  └─ parents: react-coverflow
+├─ is-plain-obj@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-plain-obj
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-plain-obj/raw/master/license
+│  └─ parents: react-coverflow
+├─ is-posix-bracket@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-posix-bracket
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-posix-bracket/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-primitive@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-primitive
+│  ├─ licenseUrl: https://github.com/jonschlinkert/is-primitive/blob/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-promise@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/then/is-promise
+│  ├─ licenseUrl: https://github.com/then/is-promise/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-resolvable@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shinnn/is-resolvable
+│  ├─ licenseUrl: https://github.com/shinnn/is-resolvable/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ is-stream@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-stream
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-stream/raw/master/license
+│  └─ parents: react-coverflow
+├─ is-svg@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-svg
+│  ├─ licenseUrl: https://github.com/sindresorhus/is-svg/raw/master/license
+│  └─ parents: react-coverflow
+├─ is-typedarray@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hughsk/is-typedarray
+│  ├─ licenseUrl: https://github.com/hughsk/is-typedarray/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ is-utf8@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/wayfind/is-utf8
+│  ├─ licenseUrl: https://github.com/wayfind/is-utf8/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ isarray@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/isarray
+│  ├─ licenseUrl: https://github.com/juliangruber/isarray
+│  └─ parents: react-coverflow
+├─ isexe@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/isexe
+│  ├─ licenseUrl: https://github.com/isaacs/isexe/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ isobject@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/isobject
+│  ├─ licenseUrl: https://github.com/jonschlinkert/isobject/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ isomorphic-fetch@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/matthew-andrews/isomorphic-fetch
+│  ├─ licenseUrl: https://github.com/matthew-andrews/isomorphic-fetch/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ isstream@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/isstream
+│  ├─ licenseUrl: https://github.com/rvagg/isstream/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ jodid25519@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/meganz/jodid25519
+│  ├─ licenseUrl: https://github.com/meganz/jodid25519/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ js-base64@2.3.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/dankogai/js-base64
+│  ├─ licenseUrl: https://github.com/dankogai/js-base64/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ js-tokens@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lydell/js-tokens
+│  ├─ licenseUrl: https://github.com/lydell/js-tokens/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ js-yaml@3.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/js-yaml
+│  ├─ licenseUrl: https://github.com/nodeca/js-yaml/raw/master/LICENSE
+│  └─ parents: eslint:react-coverflow
+├─ js-yaml@3.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/js-yaml
+│  ├─ licenseUrl: https://github.com/nodeca/js-yaml/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ jsbn@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/andyperlitch/jsbn
+│  ├─ licenseUrl: https://github.com/andyperlitch/jsbn/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ jschardet@1.5.1
+│  ├─ licenses: LGPL-2.1+
+│  ├─ repository: https://github.com/aadsm/jschardet
+│  ├─ licenseUrl: https://github.com/aadsm/jschardet/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ jsesc@0.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/jsesc
+│  ├─ licenseUrl: http://mths.be/mit
+│  └─ parents: regjsparser:react-coverflow
+├─ jsesc@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/jsesc
+│  ├─ licenseUrl: https://github.com/mathiasbynens/jsesc/raw/master/LICENSE-MIT.txt
+│  └─ parents: react-coverflow
+├─ json-schema-traverse@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epoberezkin/json-schema-traverse
+│  ├─ licenseUrl: https://github.com/epoberezkin/json-schema-traverse/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ json-schema@0.2.3
+│  ├─ licenses: AFLv2.1,BSD
+│  ├─ repository: https://github.com/kriszyp/json-schema
+│  ├─ licenseUrl: http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L43,http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L13
+│  └─ parents: react-coverflow
+├─ json-stable-stringify@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/json-stable-stringify
+│  ├─ licenseUrl: https://github.com/substack/json-stable-stringify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ json-stringify-safe@5.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/json-stringify-safe
+│  ├─ licenseUrl: https://github.com/isaacs/json-stringify-safe/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ json3@3.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bestiejs/json3
+│  ├─ licenseUrl: http://kit.mit-license.org/
+│  └─ parents: react-coverflow
+├─ json5@0.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/aseemk/json5
+│  ├─ licenseUrl: https://github.com/aseemk/json5/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ jsonfile@2.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jprichardson/node-jsonfile
+│  ├─ licenseUrl: https://github.com/jprichardson/node-jsonfile/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ jsonify@0.0.0
+│  ├─ licenses: Public Domain
+│  ├─ repository: https://github.com/substack/jsonify
+│  ├─ licenseUrl: https://github.com/substack/jsonify
+│  └─ parents: react-coverflow
+├─ jsprim@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/joyent/node-jsprim
+│  ├─ licenseUrl: https://github.com/joyent/node-jsprim/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ jsprim@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/joyent/node-jsprim
+│  ├─ licenseUrl: https://github.com/joyent/node-jsprim/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ kind-of@3.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/kind-of
+│  ├─ licenseUrl: https://github.com/jonschlinkert/kind-of/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ kind-of@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/kind-of
+│  ├─ licenseUrl: https://github.com/jonschlinkert/kind-of/raw/master/LICENSE
+│  └─ parents: randomatic:react-coverflow
+├─ lazy-cache@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/lazy-cache
+│  ├─ licenseUrl: https://github.com/jonschlinkert/lazy-cache/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lcid@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/lcid
+│  ├─ licenseUrl: https://github.com/sindresorhus/lcid/raw/master/license
+│  └─ parents: react-coverflow
+├─ levn@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/levn
+│  ├─ licenseUrl: https://github.com/gkz/levn/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ load-json-file@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/load-json-file
+│  ├─ licenseUrl: https://github.com/sindresorhus/load-json-file/raw/master/license
+│  └─ parents: react-coverflow
+├─ loader-fs-cache@1.0.1
+│  ├─ licenses: ISC
+│  └─ parents: react-coverflow
+├─ loader-utils@0.2.17
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/loader-utils
+│  ├─ licenseUrl: https://github.com/webpack/loader-utils/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ loader-utils@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/loader-utils
+│  ├─ licenseUrl: https://github.com/webpack/loader-utils/raw/master/LICENSE
+│  └─ parents: eslint-loader:react-coverflow
+├─ lodash._baseassign@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ lodash._basecopy@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ lodash._basecreate@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash._getnative@3.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash._isiterateecall@3.0.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ lodash.assign@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.camelcase@4.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.clonedeep@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.create@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.isarguments@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.isarray@3.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.keys@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.memoize@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.mergewith@4.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash.uniq@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ lodash@4.17.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ longest@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/longest
+│  ├─ licenseUrl: https://github.com/jonschlinkert/longest/blob/master/LICENSE
+│  └─ parents: react-coverflow
+├─ loose-envify@1.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zertosh/loose-envify
+│  ├─ licenseUrl: https://github.com/zertosh/loose-envify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ loud-rejection@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/loud-rejection
+│  ├─ licenseUrl: https://github.com/sindresorhus/loud-rejection/raw/master/license
+│  └─ parents: react-coverflow
+├─ lru-cache@4.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-lru-cache
+│  ├─ licenseUrl: https://github.com/isaacs/node-lru-cache/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ macaddress@0.2.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/scravy/node-macaddress
+│  ├─ licenseUrl: https://github.com/scravy/node-macaddress
+│  └─ parents: react-coverflow
+├─ map-obj@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/map-obj
+│  ├─ licenseUrl: https://github.com/sindresorhus/map-obj/raw/master/license
+│  └─ parents: react-coverflow
+├─ math-expression-evaluator@1.2.17
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/redhivesoftware/math-expression-evaluator#readme
+│  ├─ licenseUrl: https://github.com/redhivesoftware/math-expression-evaluator#readme/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ media-typer@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/media-typer
+│  ├─ licenseUrl: https://github.com/jshttp/media-typer/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ memory-fs@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/memory-fs
+│  ├─ licenseUrl: https://github.com/webpack/memory-fs
+│  └─ parents: enhanced-resolve:react-coverflow
+├─ memory-fs@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/memory-fs
+│  ├─ licenseUrl: https://github.com/webpack/memory-fs
+│  └─ parents: react-coverflow
+├─ memory-fs@0.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/memory-fs
+│  ├─ licenseUrl: https://github.com/webpack/memory-fs
+│  └─ parents: webpack-dev-middleware:react-coverflow
+├─ meow@3.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/meow
+│  ├─ licenseUrl: https://github.com/sindresorhus/meow/raw/master/license
+│  └─ parents: react-coverflow
+├─ merge-descriptors@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/merge-descriptors
+│  ├─ licenseUrl: https://github.com/component/merge-descriptors/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ methods@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/methods
+│  ├─ licenseUrl: https://github.com/jshttp/methods/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ micromatch@2.3.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/micromatch
+│  ├─ licenseUrl: https://github.com/jonschlinkert/micromatch/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ mime-db@1.27.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-db
+│  ├─ licenseUrl: https://github.com/jshttp/mime-db/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ mime-db@1.30.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-db
+│  ├─ licenseUrl: https://github.com/jshttp/mime-db/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ mime-types@2.1.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-types
+│  ├─ licenseUrl: https://github.com/jshttp/mime-types/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ mime-types@2.1.17
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-types
+│  ├─ licenseUrl: https://github.com/jshttp/mime-types/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ mime@1.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/node-mime
+│  ├─ licenseUrl: https://raw.github.com/broofa/node-mime/master/LICENSE
+│  └─ parents: react-coverflow
+├─ mimic-fn@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/mimic-fn
+│  ├─ licenseUrl: https://github.com/sindresorhus/mimic-fn/raw/master/license
+│  └─ parents: react-coverflow
+├─ minimatch@3.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  ├─ licenseUrl: https://github.com/isaacs/minimatch/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ minimist@0.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  ├─ licenseUrl: https://github.com/substack/minimist/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ minimist@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  ├─ licenseUrl: https://github.com/substack/minimist/raw/master/LICENSE
+│  └─ parents: cosmiconfig:react-coverflow
+├─ mkdirp@0.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-mkdirp
+│  ├─ licenseUrl: https://github.com/substack/node-mkdirp/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ mocha@3.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mochajs/mocha
+│  ├─ licenseUrl: https://github.com/mochajs/mocha/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ms@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zeit/ms
+│  ├─ licenseUrl: https://github.com/zeit/ms/raw/master/license.md
+│  └─ parents: react-coverflow
+├─ mute-stream@0.0.7
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/mute-stream
+│  ├─ licenseUrl: https://github.com/isaacs/mute-stream/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ nan@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/nan
+│  ├─ licenseUrl: https://github.com/nodejs/nan/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ natural-compare@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/litejs/natural-compare-lite
+│  ├─ licenseUrl: https://github.com/litejs/natural-compare-lite
+│  └─ parents: react-coverflow
+├─ negotiator@0.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/negotiator
+│  ├─ licenseUrl: https://github.com/jshttp/negotiator/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ node-fetch@1.7.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bitinn/node-fetch
+│  ├─ licenseUrl: https://github.com/bitinn/node-fetch/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ node-gyp@3.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/node-gyp
+│  ├─ licenseUrl: https://github.com/nodejs/node-gyp/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ node-libs-browser@0.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/node-libs-browser
+│  ├─ licenseUrl: https://github.com/webpack/node-libs-browser
+│  └─ parents: react-coverflow
+├─ node-pre-gyp@0.6.36
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/mapbox/node-pre-gyp
+│  ├─ licenseUrl: https://github.com/mapbox/node-pre-gyp/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ node-sass@4.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sass/node-sass
+│  ├─ licenseUrl: https://github.com/sass/node-sass/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ nopt@3.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/nopt
+│  ├─ licenseUrl: https://github.com/npm/nopt/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ nopt@4.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/nopt
+│  ├─ licenseUrl: https://github.com/npm/nopt/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ normalize-package-data@2.4.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/npm/normalize-package-data
+│  ├─ licenseUrl: https://github.com/npm/normalize-package-data/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ normalize-path@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/normalize-path
+│  ├─ licenseUrl: https://github.com/jonschlinkert/normalize-path/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ normalize-range@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jamestalmage/normalize-range
+│  ├─ licenseUrl: https://github.com/jamestalmage/normalize-range/raw/master/license
+│  └─ parents: react-coverflow
+├─ normalize-url@1.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/normalize-url
+│  ├─ licenseUrl: https://github.com/sindresorhus/normalize-url/raw/master/license
+│  └─ parents: react-coverflow
+├─ npmlog@4.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npmlog
+│  ├─ licenseUrl: https://github.com/npm/npmlog/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ npmlog@4.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npmlog
+│  ├─ licenseUrl: https://github.com/npm/npmlog/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ num2fraction@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yisibl/num2fraction
+│  ├─ licenseUrl: https://github.com/yisibl/num2fraction/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ number-is-nan@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/number-is-nan
+│  ├─ licenseUrl: https://github.com/sindresorhus/number-is-nan/raw/master/license
+│  └─ parents: react-coverflow
+├─ oauth-sign@0.8.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/oauth-sign
+│  ├─ licenseUrl: https://github.com/mikeal/oauth-sign/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ object-assign@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  ├─ licenseUrl: https://github.com/sindresorhus/object-assign/raw/master/license
+│  └─ parents: react-coverflow
+├─ object-hash@1.1.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/puleos/object-hash
+│  ├─ licenseUrl: https://github.com/puleos/object-hash/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ object.omit@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/object.omit
+│  ├─ licenseUrl: https://github.com/jonschlinkert/object.omit/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ on-finished@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/on-finished
+│  ├─ licenseUrl: https://github.com/jshttp/on-finished/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ on-headers@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/on-headers
+│  ├─ licenseUrl: https://github.com/jshttp/on-headers/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ once@1.4.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  ├─ licenseUrl: https://github.com/isaacs/once/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ onetime@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/onetime
+│  ├─ licenseUrl: https://github.com/sindresorhus/onetime/raw/master/license
+│  └─ parents: react-coverflow
+├─ open@0.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pwnall/node-open
+│  ├─ licenseUrl: https://github.com/pwnall/node-open/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ optimist@0.6.1
+│  ├─ licenses: MIT/X11
+│  ├─ repository: https://github.com/substack/node-optimist
+│  ├─ licenseUrl: https://github.com/substack/node-optimist/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ optionator@0.8.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/optionator
+│  ├─ licenseUrl: https://github.com/gkz/optionator/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ original@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unshiftio/original
+│  ├─ licenseUrl: https://github.com/unshiftio/original/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ os-browserify@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/CoderPuppy/os-browserify
+│  ├─ licenseUrl: https://github.com/CoderPuppy/os-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ os-homedir@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/os-homedir
+│  ├─ licenseUrl: https://github.com/sindresorhus/os-homedir/raw/master/license
+│  └─ parents: react-coverflow
+├─ os-locale@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/os-locale
+│  ├─ licenseUrl: https://github.com/sindresorhus/os-locale/raw/master/license
+│  └─ parents: react-coverflow
+├─ os-tmpdir@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/os-tmpdir
+│  ├─ licenseUrl: https://github.com/sindresorhus/os-tmpdir/raw/master/license
+│  └─ parents: react-coverflow
+├─ osenv@0.1.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/osenv
+│  ├─ licenseUrl: https://github.com/npm/osenv/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ pako@0.2.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/pako
+│  ├─ licenseUrl: https://github.com/nodeca/pako/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ parse-glob@3.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/parse-glob
+│  ├─ licenseUrl: https://github.com/jonschlinkert/parse-glob/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ parse-json@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/parse-json
+│  ├─ licenseUrl: https://github.com/sindresorhus/parse-json/raw/master/license
+│  └─ parents: react-coverflow
+├─ parseurl@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/parseurl
+│  ├─ licenseUrl: https://github.com/pillarjs/parseurl/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ path-browserify@0.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/path-browserify
+│  ├─ licenseUrl: https://github.com/substack/path-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ path-exists@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-exists
+│  ├─ licenseUrl: https://github.com/sindresorhus/path-exists/raw/master/license
+│  └─ parents: react-coverflow
+├─ path-is-absolute@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-is-absolute
+│  ├─ licenseUrl: https://github.com/sindresorhus/path-is-absolute/raw/master/license
+│  └─ parents: react-coverflow
+├─ path-is-inside@1.0.2
+│  ├─ licenses: (WTFPL OR MIT)
+│  ├─ repository: https://github.com/domenic/path-is-inside
+│  ├─ licenseUrl: https://github.com/domenic/path-is-inside/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ path-to-regexp@0.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/path-to-regexp
+│  ├─ licenseUrl: https://github.com/component/path-to-regexp/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ path-type@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-type
+│  ├─ licenseUrl: https://github.com/sindresorhus/path-type/raw/master/license
+│  └─ parents: react-coverflow
+├─ pathval@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chaijs/pathval
+│  ├─ licenseUrl: https://github.com/chaijs/pathval/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ pbkdf2-compat@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dcousens/pbkdf2-compat
+│  ├─ licenseUrl: https://github.com/dcousens/pbkdf2-compat/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ performance-now@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/meryn/performance-now
+│  ├─ licenseUrl: https://github.com/meryn/performance-now/raw/master/license.txt
+│  └─ parents: fsevents:react-coverflow
+├─ performance-now@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/braveg1rl/performance-now
+│  ├─ licenseUrl: https://github.com/braveg1rl/performance-now/raw/master/license.txt
+│  └─ parents: react-coverflow
+├─ pify@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/pify
+│  ├─ licenseUrl: https://github.com/sindresorhus/pify/raw/master/license
+│  └─ parents: react-coverflow
+├─ pinkie-promise@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie-promise
+│  ├─ licenseUrl: https://github.com/floatdrop/pinkie-promise/raw/master/license
+│  └─ parents: postcss-mixins:react-coverflow
+├─ pinkie-promise@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie-promise
+│  ├─ licenseUrl: https://github.com/floatdrop/pinkie-promise/raw/master/license
+│  └─ parents: react-coverflow
+├─ pinkie@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie
+│  ├─ licenseUrl: https://github.com/floatdrop/pinkie/raw/master/license
+│  └─ parents: postcss-mixins:react-coverflow
+├─ pinkie@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie
+│  ├─ licenseUrl: https://github.com/floatdrop/pinkie/raw/master/license
+│  └─ parents: react-coverflow
+├─ pkg-dir@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/pkg-dir
+│  ├─ licenseUrl: https://github.com/sindresorhus/pkg-dir/raw/master/license
+│  └─ parents: react-coverflow
+├─ pluralize@7.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/blakeembrey/pluralize
+│  ├─ licenseUrl: https://github.com/blakeembrey/pluralize/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-advanced-variables@1.2.2
+│  ├─ licenses: CC0-1.0
+│  ├─ repository: https://github.com/jonathantneal/postcss-advanced-variables
+│  ├─ licenseUrl: https://github.com/jonathantneal/postcss-advanced-variables/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ postcss-atroot@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/OEvgeny/postcss-atroot
+│  ├─ licenseUrl: https://github.com/OEvgeny/postcss-atroot/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-calc@5.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-calc
+│  ├─ licenseUrl: https://github.com/postcss/postcss-calc/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-color-function@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-color-function
+│  ├─ licenseUrl: https://github.com/postcss/postcss-color-function/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-colormin@2.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-colormin
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-colormin/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-convert-values@2.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-convert-values
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-convert-values/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-custom-media@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-custom-media
+│  ├─ licenseUrl: https://github.com/postcss/postcss-custom-media/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-custom-properties@5.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-custom-properties
+│  ├─ licenseUrl: https://github.com/postcss/postcss-custom-properties/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-custom-selectors@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-custom-selectors
+│  ├─ licenseUrl: https://github.com/postcss/postcss-custom-selectors/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-discard-comments@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-discard-comments
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-discard-comments/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-discard-duplicates@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-discard-duplicates
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-discard-duplicates/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-discard-empty@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-discard-empty
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-discard-empty/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-discard-overridden@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/justineo/postcss-discard-overridden
+│  ├─ licenseUrl: https://github.com/justineo/postcss-discard-overridden/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-discard-unused@2.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-discard-unused
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-discard-unused/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-extend@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/travco/postcss-extend
+│  ├─ licenseUrl: https://github.com/travco/postcss-extend/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-filter-plugins@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-filter-plugins
+│  ├─ licenseUrl: https://github.com/postcss/postcss-filter-plugins/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-load-config@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/michael-ciniawsky/postcss-load-config
+│  ├─ licenseUrl: https://github.com/michael-ciniawsky/postcss-load-config/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-load-options@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/michael-ciniawsky/postcss-load-options
+│  ├─ licenseUrl: https://github.com/michael-ciniawsky/postcss-load-options/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-load-plugins@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/michael-ciniawsky/postcss-load-plugins
+│  ├─ licenseUrl: https://github.com/michael-ciniawsky/postcss-load-plugins/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-loader@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-loader
+│  ├─ licenseUrl: https://github.com/postcss/postcss-loader/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-media-minmax@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-media-minmax
+│  ├─ licenseUrl: https://github.com/postcss/postcss-media-minmax/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-merge-idents@2.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-merge-idents
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-merge-idents/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-merge-longhand@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-merge-longhand
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-merge-longhand/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-merge-rules@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-merge-rules
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-merge-rules/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-message-helpers@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/MoOx/postcss-message-helpers
+│  ├─ licenseUrl: https://github.com/MoOx/postcss-message-helpers/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-minify-font-values@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TrySound/postcss-minify-font-values
+│  ├─ licenseUrl: https://github.com/TrySound/postcss-minify-font-values/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-minify-gradients@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-minify-gradients
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-minify-gradients/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-minify-params@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-minify-params
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-minify-params/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-minify-selectors@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-minify-selectors
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-minify-selectors/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-mixins@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-mixins
+│  ├─ licenseUrl: https://github.com/postcss/postcss-mixins/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-modules-extract-imports@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/css-modules/postcss-modules-extract-imports
+│  ├─ licenseUrl: https://github.com/css-modules/postcss-modules-extract-imports
+│  └─ parents: react-coverflow
+├─ postcss-modules-local-by-default@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/css-modules/postcss-modules-local-by-default
+│  ├─ licenseUrl: https://github.com/css-modules/postcss-modules-local-by-default/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-modules-scope@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/css-modules/postcss-modules-scope
+│  ├─ licenseUrl: https://github.com/css-modules/postcss-modules-scope
+│  └─ parents: react-coverflow
+├─ postcss-modules-values@1.3.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/css-modules/postcss-modules-values
+│  ├─ licenseUrl: https://github.com/css-modules/postcss-modules-values
+│  └─ parents: react-coverflow
+├─ postcss-nested@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-nested
+│  ├─ licenseUrl: https://github.com/postcss/postcss-nested/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-nesting@2.3.1
+│  ├─ licenses: CC0-1.0
+│  ├─ repository: https://github.com/jonathantneal/postcss-nesting
+│  ├─ licenseUrl: https://github.com/jonathantneal/postcss-nesting/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ postcss-normalize-charset@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-charset
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-charset/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-normalize-url@3.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-normalize-url
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-normalize-url/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-ordered-values@2.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-ordered-values
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-ordered-values/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-partial-import@1.3.0
+│  ├─ licenses: CC0-1.0
+│  ├─ repository: https://github.com/jonathantneal/postcss-partial-import
+│  ├─ licenseUrl: https://github.com/jonathantneal/postcss-partial-import/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ postcss-property-lookup@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/simonsmith/postcss-property-lookup
+│  ├─ licenseUrl: https://github.com/simonsmith/postcss-property-lookup/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-reduce-idents@2.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-reduce-idents
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-reduce-idents/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-reduce-initial@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-reduce-initial
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-reduce-initial/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-reduce-transforms@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-reduce-transforms
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-reduce-transforms/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-safe-parser@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-safe-parser
+│  ├─ licenseUrl: https://github.com/postcss/postcss-safe-parser/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-selector-matches@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-selector-matches
+│  ├─ licenseUrl: https://github.com/postcss/postcss-selector-matches/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-selector-not@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-selector-not
+│  ├─ licenseUrl: https://github.com/postcss/postcss-selector-not/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-selector-parser@2.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-selector-parser
+│  ├─ licenseUrl: https://github.com/postcss/postcss-selector-parser/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-simple-vars@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-simple-vars
+│  ├─ licenseUrl: https://github.com/postcss/postcss-simple-vars/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-svgo@2.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-svgo
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-svgo/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-unique-selectors@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-unique-selectors
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-unique-selectors/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss-value-parser@3.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TrySound/postcss-value-parser
+│  ├─ licenseUrl: https://github.com/TrySound/postcss-value-parser/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ postcss-zindex@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ben-eb/postcss-zindex
+│  ├─ licenseUrl: https://github.com/ben-eb/postcss-zindex/raw/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ postcss@5.2.17
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss
+│  ├─ licenseUrl: https://github.com/postcss/postcss/raw/master/LICENSE
+│  └─ parents: autoprefixer-loader:react-coverflow
+├─ postcss@6.0.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss
+│  ├─ licenseUrl: https://github.com/postcss/postcss/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ precss@1.4.0
+│  ├─ licenses: CC0-1.0
+│  ├─ repository: https://github.com/jonathantneal/precss
+│  ├─ licenseUrl: https://github.com/jonathantneal/precss/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ prelude-ls@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/prelude-ls
+│  ├─ licenseUrl: https://raw.github.com/gkz/prelude-ls/master/LICENSE
+│  └─ parents: react-coverflow
+├─ prepend-http@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/prepend-http
+│  ├─ licenseUrl: https://github.com/sindresorhus/prepend-http/raw/master/license
+│  └─ parents: react-coverflow
+├─ preserve@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/preserve
+│  ├─ licenseUrl: https://github.com/jonschlinkert/preserve/blob/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ private@0.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/benjamn/private
+│  ├─ licenseUrl: https://github.com/benjamn/private/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ process-nextick-args@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/process-nextick-args
+│  ├─ licenseUrl: https://github.com/calvinmetcalf/process-nextick-args/raw/master/license.md
+│  └─ parents: react-coverflow
+├─ process@0.11.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shtylman/node-process
+│  ├─ licenseUrl: https://github.com/shtylman/node-process/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ progress@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-progress
+│  ├─ licenseUrl: https://github.com/visionmedia/node-progress/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ promise@7.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/then/promise
+│  ├─ licenseUrl: https://github.com/then/promise/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ prop-types@15.5.10
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/reactjs/prop-types
+│  ├─ licenseUrl: https://github.com/reactjs/prop-types/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ proxy-addr@1.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/proxy-addr
+│  ├─ licenseUrl: https://github.com/jshttp/proxy-addr/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ prr@0.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/prr
+│  ├─ licenseUrl: https://github.com/rvagg/prr/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ pseudomap@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/pseudomap
+│  ├─ licenseUrl: https://github.com/isaacs/pseudomap/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ punycode@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bestiejs/punycode.js
+│  ├─ licenseUrl: https://github.com/bestiejs/punycode.js/raw/master/LICENSE-MIT.txt
+│  └─ parents: url:react-coverflow
+├─ punycode@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bestiejs/punycode.js
+│  ├─ licenseUrl: https://github.com/bestiejs/punycode.js/raw/master/LICENSE-MIT.txt
+│  └─ parents: react-coverflow
+├─ q@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kriskowal/q
+│  ├─ licenseUrl: https://github.com/kriskowal/q/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ qs@6.4.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  ├─ licenseUrl: https://github.com/ljharb/qs/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ qs@6.5.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  ├─ licenseUrl: https://github.com/ljharb/qs/raw/master/LICENSE
+│  └─ parents: express:react-coverflow
+├─ qs@6.5.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  ├─ licenseUrl: https://github.com/ljharb/qs/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ query-string@4.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/query-string
+│  ├─ licenseUrl: https://github.com/sindresorhus/query-string/raw/master/license
+│  └─ parents: react-coverflow
+├─ querystring-es3@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mike-spainhower/querystring
+│  ├─ licenseUrl: https://github.com/Gozala/enchain/License.md
+│  └─ parents: react-coverflow
+├─ querystring@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Gozala/querystring
+│  ├─ licenseUrl: https://github.com/Gozala/enchain/License.md
+│  └─ parents: react-coverflow
+├─ querystringify@0.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unshiftio/querystringify
+│  ├─ licenseUrl: https://github.com/unshiftio/querystringify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ querystringify@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unshiftio/querystringify
+│  ├─ licenseUrl: https://github.com/unshiftio/querystringify/raw/master/LICENSE
+│  └─ parents: url-parse:react-coverflow
+├─ radium@0.19.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/formidablelabs/radium
+│  ├─ licenseUrl: https://github.com/formidablelabs/radium/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ randomatic@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/randomatic
+│  ├─ licenseUrl: https://github.com/jonschlinkert/randomatic/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ range-parser@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/range-parser
+│  ├─ licenseUrl: https://github.com/jshttp/range-parser/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ rc@1.2.1
+│  ├─ licenses: (BSD-2-Clause OR MIT OR Apache-2.0)
+│  ├─ repository: https://github.com/dominictarr/rc
+│  ├─ licenseUrl: https://github.com/dominictarr/rc/raw/master/LICENSE.APACHE2
+│  └─ parents: fsevents:react-coverflow
+├─ react-coverflow@0.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com//j-froehlich/react-coverflow
+│  ├─ licenseUrl: https://github.com//j-froehlich/react-coverflow/raw/master/LICENSE
+│  └─ parents: UNDEFINED
+├─ react-dom@15.6.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ licenseUrl: https://github.com/facebook/react/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ react-hot-api@0.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gaearon/react-hot-api
+│  ├─ licenseUrl: https://github.com/gaearon/react-hot-api
+│  └─ parents: react-coverflow
+├─ react-hot-loader@1.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gaearon/react-hot-loader
+│  ├─ licenseUrl: https://github.com/gaearon/react-hot-loader
+│  └─ parents: react-coverflow
+├─ react-tap-event-plugin@2.0.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/zilverline/react-tap-event-plugin
+│  ├─ licenseUrl: http://www.apache.org/licenses/LICENSE-2.0
+│  └─ parents: react-coverflow
+├─ react@15.6.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ licenseUrl: https://github.com/facebook/react/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ read-pkg-up@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/read-pkg-up
+│  ├─ licenseUrl: https://github.com/sindresorhus/read-pkg-up/raw/master/license
+│  └─ parents: react-coverflow
+├─ read-pkg@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/read-pkg
+│  ├─ licenseUrl: https://github.com/sindresorhus/read-pkg/raw/master/license
+│  └─ parents: react-coverflow
+├─ readable-stream@2.2.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ licenseUrl: https://github.com/nodejs/readable-stream/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ readable-stream@2.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ licenseUrl: https://github.com/nodejs/readable-stream/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ readdirp@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/readdirp
+│  ├─ licenseUrl: https://github.com/thlorenz/readdirp/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ redent@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/redent
+│  ├─ licenseUrl: https://github.com/sindresorhus/redent/raw/master/license
+│  └─ parents: react-coverflow
+├─ reduce-css-calc@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/MoOx/reduce-css-calc
+│  ├─ licenseUrl: https://github.com/MoOx/reduce-css-calc/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ reduce-function-call@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/MoOx/reduce-function-call
+│  ├─ licenseUrl: https://github.com/MoOx/reduce-function-call/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ regenerate@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/regenerate
+│  ├─ licenseUrl: https://github.com/mathiasbynens/regenerate/raw/master/LICENSE-MIT.txt
+│  └─ parents: react-coverflow
+├─ regenerator-runtime@0.11.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime
+│  ├─ licenseUrl: https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime
+│  └─ parents: react-coverflow
+├─ regenerator-transform@0.10.1
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/facebook/regenerator/tree/master/packages/regenerator-transform
+│  ├─ licenseUrl: https://github.com/facebook/regenerator/tree/master/packages/regenerator-transform
+│  └─ parents: react-coverflow
+├─ regex-cache@0.4.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/regex-cache
+│  ├─ licenseUrl: https://github.com/jonschlinkert/regex-cache/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ regexpu-core@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/regexpu-core
+│  ├─ licenseUrl: https://github.com/mathiasbynens/regexpu-core/raw/master/LICENSE-MIT.txt
+│  └─ parents: css-selector-tokenizer:react-coverflow
+├─ regexpu-core@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/regexpu-core
+│  ├─ licenseUrl: https://github.com/mathiasbynens/regexpu-core/raw/master/LICENSE-MIT.txt
+│  └─ parents: react-coverflow
+├─ regjsgen@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/d10/regjsgen
+│  ├─ licenseUrl: https://github.com/d10/regjsgen/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ regjsparser@0.1.5
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/jviereck/regjsparser
+│  ├─ licenseUrl: https://github.com/jviereck/regjsparser/raw/master/LICENSE.BSD
+│  └─ parents: react-coverflow
+├─ remove-trailing-separator@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/darsain/remove-trailing-separator
+│  ├─ licenseUrl: https://github.com/darsain/remove-trailing-separator/raw/master/license
+│  └─ parents: react-coverflow
+├─ repeat-element@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/repeat-element
+│  ├─ licenseUrl: https://github.com/jonschlinkert/repeat-element/blob/master/LICENSE
+│  └─ parents: react-coverflow
+├─ repeat-string@1.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/repeat-string
+│  ├─ licenseUrl: https://github.com/jonschlinkert/repeat-string/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ repeating@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/repeating
+│  ├─ licenseUrl: https://github.com/sindresorhus/repeating/raw/master/license
+│  └─ parents: react-coverflow
+├─ request@2.81.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/request/request
+│  ├─ licenseUrl: https://github.com/request/request/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ request@2.82.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/request/request
+│  ├─ licenseUrl: https://github.com/request/request/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ require-directory@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/troygoode/node-require-directory
+│  ├─ licenseUrl: https://github.com/troygoode/node-require-directory/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ require-from-string@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/require-from-string
+│  ├─ licenseUrl: https://github.com/floatdrop/require-from-string/raw/master/license
+│  └─ parents: react-coverflow
+├─ require-main-filename@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/require-main-filename
+│  ├─ licenseUrl: https://github.com/yargs/require-main-filename/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ require-uncached@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/require-uncached
+│  ├─ licenseUrl: https://github.com/sindresorhus/require-uncached/raw/master/license
+│  └─ parents: react-coverflow
+├─ requires-port@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unshiftio/requires-port
+│  ├─ licenseUrl: https://github.com/unshiftio/requires-port/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ resolve-from@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/resolve-from
+│  ├─ licenseUrl: https://github.com/sindresorhus/resolve-from/raw/master/license
+│  └─ parents: react-coverflow
+├─ restore-cursor@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/restore-cursor
+│  ├─ licenseUrl: https://github.com/sindresorhus/restore-cursor/raw/master/license
+│  └─ parents: react-coverflow
+├─ rgb@0.1.0
+│  ├─ licenses: MIT (http://mootools.net/license.txt)
+│  ├─ repository: https://github.com/kamicane/rgb
+│  ├─ licenseUrl: https://github.com/kamicane/rgb
+│  └─ parents: react-coverflow
+├─ right-align@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/right-align
+│  ├─ licenseUrl: https://github.com/jonschlinkert/right-align/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ rimraf@2.6.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/rimraf
+│  ├─ licenseUrl: https://github.com/isaacs/rimraf/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ rimraf@2.6.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/rimraf
+│  ├─ licenseUrl: https://github.com/isaacs/rimraf/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ripemd160@0.2.0
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/cryptocoinjs/ripemd160
+│  ├─ licenseUrl: https://github.com/cryptocoinjs/ripemd160
+│  └─ parents: react-coverflow
+├─ run-async@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sboudrias/run-async
+│  ├─ licenseUrl: https://github.com/sboudrias/run-async/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ rx-lite-aggregates@4.0.8
+│  ├─ licenses: Apache License, Version 2.0
+│  ├─ repository: https://github.com/Reactive-Extensions/RxJS
+│  ├─ licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.html
+│  └─ parents: react-coverflow
+├─ rx-lite@4.0.8
+│  ├─ licenses: Apache License, Version 2.0
+│  ├─ repository: https://github.com/Reactive-Extensions/RxJS
+│  ├─ licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.html
+│  └─ parents: react-coverflow
+├─ safe-buffer@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ licenseUrl: https://github.com/feross/safe-buffer/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ safe-buffer@5.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ licenseUrl: https://github.com/feross/safe-buffer/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ sass-graph@2.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/xzyfer/sass-graph
+│  ├─ licenseUrl: https://github.com/xzyfer/sass-graph
+│  └─ parents: react-coverflow
+├─ sass-loader@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jtangelder/sass-loader
+│  ├─ licenseUrl: https://github.com/jtangelder/sass-loader/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ sax@1.2.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/sax-js
+│  ├─ licenseUrl: https://github.com/isaacs/sax-js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ schema-utils@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack-contrib/schema-utils
+│  ├─ licenseUrl: https://github.com/webpack-contrib/schema-utils/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ scss-tokenizer@0.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sasstools/scss-tokenizer
+│  ├─ licenseUrl: https://github.com/sasstools/scss-tokenizer/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ semver@5.3.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ licenseUrl: https://github.com/npm/node-semver/raw/master/LICENSE
+│  └─ parents: node-gyp:react-coverflow
+├─ semver@5.4.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ licenseUrl: https://github.com/npm/node-semver/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ send@0.15.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/send
+│  ├─ licenseUrl: https://github.com/pillarjs/send/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ serve-index@1.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/serve-index
+│  ├─ licenseUrl: https://github.com/expressjs/serve-index/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ serve-static@1.12.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/serve-static
+│  ├─ licenseUrl: https://github.com/expressjs/serve-static/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ set-blocking@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/set-blocking
+│  ├─ licenseUrl: https://github.com/yargs/set-blocking/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ set-immediate-shim@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/set-immediate-shim
+│  ├─ licenseUrl: https://github.com/sindresorhus/set-immediate-shim
+│  └─ parents: react-coverflow
+├─ setimmediate@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yuzujs/setImmediate
+│  ├─ licenseUrl: https://github.com/yuzujs/setImmediate/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ setprototypeof@1.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/wesleytodd/setprototypeof
+│  ├─ licenseUrl: https://github.com/wesleytodd/setprototypeof/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ sha.js@2.2.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/sha.js
+│  ├─ licenseUrl: https://github.com/dominictarr/sha.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ shebang-command@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevva/shebang-command
+│  ├─ licenseUrl: https://github.com/kevva/shebang-command/raw/master/license
+│  └─ parents: react-coverflow
+├─ shebang-regex@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/shebang-regex
+│  ├─ licenseUrl: https://github.com/sindresorhus/shebang-regex/raw/master/license
+│  └─ parents: react-coverflow
+├─ signal-exit@3.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/tapjs/signal-exit
+│  ├─ licenseUrl: https://github.com/tapjs/signal-exit/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ slash@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/slash
+│  ├─ licenseUrl: https://github.com/sindresorhus/slash
+│  └─ parents: react-coverflow
+├─ slice-ansi@0.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/slice-ansi
+│  ├─ licenseUrl: https://github.com/chalk/slice-ansi/raw/master/license
+│  └─ parents: react-coverflow
+├─ sntp@1.0.9
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/hueniverse/sntp
+│  ├─ licenseUrl: http://github.com/hueniverse/sntp/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ sntp@2.0.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hueniverse/sntp
+│  ├─ licenseUrl: https://github.com/hueniverse/sntp/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ sockjs-client@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sockjs/sockjs-client
+│  ├─ licenseUrl: https://github.com/sockjs/sockjs-client/raw/master/COPYING
+│  └─ parents: react-coverflow
+├─ sockjs@0.3.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sockjs/sockjs-node
+│  ├─ licenseUrl: https://github.com/sockjs/sockjs-node/raw/master/COPYING
+│  └─ parents: react-coverflow
+├─ sort-keys@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/sort-keys
+│  ├─ licenseUrl: https://github.com/sindresorhus/sort-keys/raw/master/license
+│  └─ parents: react-coverflow
+├─ source-list-map@0.1.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/source-list-map
+│  ├─ licenseUrl: https://github.com/webpack/source-list-map
+│  └─ parents: webpack-sources:react-coverflow
+├─ source-list-map@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/source-list-map
+│  ├─ licenseUrl: https://github.com/webpack/source-list-map
+│  └─ parents: react-coverflow
+├─ source-map-support@0.4.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/evanw/node-source-map-support
+│  ├─ licenseUrl: https://github.com/evanw/node-source-map-support/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ source-map@0.4.4
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/mozilla/source-map
+│  ├─ licenseUrl: https://github.com/mozilla/source-map
+│  └─ parents: scss-tokenizer:react-coverflow
+├─ source-map@0.5.7
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/mozilla/source-map
+│  ├─ licenseUrl: https://github.com/mozilla/source-map/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ spdx-correct@1.0.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/kemitchell/spdx-correct.js
+│  ├─ licenseUrl: https://github.com/kemitchell/spdx-correct.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ spdx-expression-parse@1.0.4
+│  ├─ licenses: (MIT AND CC-BY-3.0)
+│  ├─ repository: https://github.com/kemitchell/spdx-expression-parse.js
+│  ├─ licenseUrl: https://github.com/kemitchell/spdx-expression-parse.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ spdx-license-ids@1.2.2
+│  ├─ licenses: Unlicense
+│  ├─ repository: https://github.com/shinnn/spdx-license-ids
+│  ├─ licenseUrl: https://github.com/shinnn/spdx-license-ids/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ sprintf-js@1.0.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/alexei/sprintf.js
+│  ├─ licenseUrl: https://github.com/alexei/sprintf.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ sshpk@1.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arekinath/node-sshpk
+│  ├─ licenseUrl: https://github.com/arekinath/node-sshpk/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ sshpk@1.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arekinath/node-sshpk
+│  ├─ licenseUrl: https://github.com/arekinath/node-sshpk/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ statuses@1.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/statuses
+│  ├─ licenseUrl: https://github.com/jshttp/statuses/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ stdout-stream@1.4.0
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/mafintosh/stdout-stream
+│  ├─ licenseUrl: https://github.com/mafintosh/stdout-stream/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ stream-browserify@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/stream-browserify
+│  ├─ licenseUrl: https://github.com/substack/stream-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ stream-cache@0.0.2
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/felixge/node-stream-cache
+│  ├─ licenseUrl: https://github.com/felixge/node-stream-cache/raw/master/.License.un~
+│  └─ parents: react-coverflow
+├─ stream-http@2.7.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jhiesey/stream-http
+│  ├─ licenseUrl: https://github.com/jhiesey/stream-http/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ strict-uri-encode@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevva/strict-uri-encode
+│  ├─ licenseUrl: https://github.com/kevva/strict-uri-encode/raw/master/license
+│  └─ parents: react-coverflow
+├─ string-hash@1.1.3
+│  ├─ licenses: CC0-1.0
+│  ├─ repository: https://github.com/darkskyapp/string-hash
+│  ├─ licenseUrl: https://github.com/darkskyapp/string-hash
+│  └─ parents: react-coverflow
+├─ string-width@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-width
+│  ├─ licenseUrl: https://github.com/sindresorhus/string-width/raw/master/license
+│  └─ parents: gauge:react-coverflow
+├─ string-width@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-width
+│  ├─ licenseUrl: https://github.com/sindresorhus/string-width/raw/master/license
+│  └─ parents: react-coverflow
+├─ string_decoder@0.10.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/string_decoder
+│  ├─ licenseUrl: https://github.com/rvagg/string_decoder/raw/master/LICENSE
+│  └─ parents: node-libs-browser:react-coverflow
+├─ string_decoder@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/string_decoder
+│  ├─ licenseUrl: https://github.com/rvagg/string_decoder/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ string_decoder@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/string_decoder
+│  ├─ licenseUrl: https://github.com/rvagg/string_decoder/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ stringstream@0.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mhart/StringStream
+│  ├─ licenseUrl: https://github.com/mhart/StringStream/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ strip-ansi@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  ├─ licenseUrl: https://github.com/chalk/strip-ansi/raw/master/license
+│  └─ parents: react-coverflow
+├─ strip-ansi@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  ├─ licenseUrl: https://github.com/chalk/strip-ansi/raw/master/license
+│  └─ parents: string-width:react-coverflow
+├─ strip-bom@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/strip-bom
+│  ├─ licenseUrl: https://github.com/sindresorhus/strip-bom/raw/master/license
+│  └─ parents: react-coverflow
+├─ strip-indent@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/strip-indent
+│  ├─ licenseUrl: https://github.com/sindresorhus/strip-indent/raw/master/license
+│  └─ parents: react-coverflow
+├─ strip-json-comments@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/strip-json-comments
+│  ├─ licenseUrl: https://github.com/sindresorhus/strip-json-comments/raw/master/license
+│  └─ parents: react-coverflow
+├─ style-loader@0.18.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/style-loader
+│  ├─ licenseUrl: https://github.com/webpack/style-loader/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ supports-color@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ licenseUrl: https://github.com/chalk/supports-color/raw/master/license
+│  └─ parents: babel-code-frame:react-coverflow
+├─ supports-color@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ licenseUrl: https://github.com/chalk/supports-color/raw/master/license
+│  └─ parents: mocha:react-coverflow
+├─ supports-color@3.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ licenseUrl: https://github.com/chalk/supports-color/raw/master/license
+│  └─ parents: webpack:react-coverflow
+├─ supports-color@4.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ licenseUrl: https://github.com/chalk/supports-color/raw/master/license
+│  └─ parents: react-coverflow
+├─ svgo@0.7.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/svg/svgo
+│  ├─ licenseUrl: https://github.com/svg/svgo/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ table@4.0.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/gajus/table
+│  ├─ licenseUrl: https://github.com/gajus/table/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ tapable@0.1.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/tapable
+│  ├─ licenseUrl: https://github.com/webpack/tapable
+│  └─ parents: react-coverflow
+├─ tar-pack@3.4.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/ForbesLindesay/tar-pack
+│  ├─ licenseUrl: https://github.com/ForbesLindesay/tar-pack/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ tar@2.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-tar
+│  ├─ licenseUrl: https://github.com/isaacs/node-tar/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ tcomb@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gcanti/tcomb
+│  ├─ licenseUrl: https://github.com/gcanti/tcomb/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ text-table@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/text-table
+│  ├─ licenseUrl: https://github.com/substack/text-table/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ through@2.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/through
+│  ├─ licenseUrl: https://github.com/dominictarr/through/raw/master/LICENSE.APACHE2
+│  └─ parents: react-coverflow
+├─ time-stamp@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/time-stamp
+│  ├─ licenseUrl: https://github.com/jonschlinkert/time-stamp/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ timers-browserify@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jryans/timers-browserify
+│  ├─ licenseUrl: https://github.com/jryans/timers-browserify/blob/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ tmp@0.0.33
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/raszi/node-tmp
+│  ├─ licenseUrl: https://github.com/raszi/node-tmp/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ to-arraybuffer@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jhiesey/to-arraybuffer
+│  ├─ licenseUrl: https://github.com/jhiesey/to-arraybuffer/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ to-fast-properties@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/to-fast-properties
+│  ├─ licenseUrl: https://github.com/sindresorhus/to-fast-properties/raw/master/license
+│  └─ parents: react-coverflow
+├─ to-fast-properties@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/to-fast-properties
+│  ├─ licenseUrl: https://github.com/sindresorhus/to-fast-properties/raw/master/license
+│  └─ parents: babel-helper-get-function-arity:react-coverflow
+├─ tough-cookie@2.3.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/salesforce/tough-cookie
+│  ├─ licenseUrl: https://github.com/salesforce/tough-cookie/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ tough-cookie@2.3.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/salesforce/tough-cookie
+│  ├─ licenseUrl: https://github.com/salesforce/tough-cookie/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ trim-newlines@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/trim-newlines
+│  ├─ licenseUrl: https://github.com/sindresorhus/trim-newlines/raw/master/license
+│  └─ parents: react-coverflow
+├─ trim-right@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/trim-right
+│  ├─ licenseUrl: https://github.com/sindresorhus/trim-right/raw/master/license
+│  └─ parents: react-coverflow
+├─ tryit@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/HenrikJoreteg/tryit
+│  ├─ licenseUrl: https://github.com/HenrikJoreteg/tryit
+│  └─ parents: react-coverflow
+├─ tty-browserify@0.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/tty-browserify
+│  ├─ licenseUrl: https://github.com/substack/tty-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ tunnel-agent@0.6.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/tunnel-agent
+│  ├─ licenseUrl: https://github.com/mikeal/tunnel-agent/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ tweetnacl@0.14.5
+│  ├─ licenses: Unlicense
+│  ├─ repository: https://github.com/dchest/tweetnacl-js
+│  ├─ licenseUrl: https://github.com/dchest/tweetnacl-js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ type-check@0.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/type-check
+│  ├─ licenseUrl: https://github.com/gkz/type-check/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ type-detect@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chaijs/type-detect
+│  ├─ licenseUrl: https://github.com/chaijs/type-detect/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ type-is@1.6.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/type-is
+│  ├─ licenseUrl: https://github.com/jshttp/type-is/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ typedarray@0.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/typedarray
+│  ├─ licenseUrl: https://github.com/substack/typedarray/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ ua-parser-js@0.7.14
+│  ├─ licenses: (GPL-2.0 OR MIT)
+│  ├─ repository: https://github.com/faisalman/ua-parser-js
+│  ├─ licenseUrl: https://github.com/faisalman/ua-parser-js
+│  └─ parents: react-coverflow
+├─ uglify-js@2.7.5
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/mishoo/UglifyJS2
+│  ├─ licenseUrl: https://github.com/mishoo/UglifyJS2/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ uglify-to-browserify@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ForbesLindesay/uglify-to-browserify
+│  ├─ licenseUrl: https://github.com/ForbesLindesay/uglify-to-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ uid-number@0.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/uid-number
+│  ├─ licenseUrl: https://github.com/isaacs/uid-number/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ uniq@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mikolalysenko/uniq
+│  ├─ licenseUrl: https://github.com/mikolalysenko/uniq/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ uniqid@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/adamhalasz/uniqid
+│  ├─ licenseUrl: https://github.com/adamhalasz/uniqid
+│  └─ parents: react-coverflow
+├─ uniqs@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fgnass/uniqs
+│  ├─ licenseUrl: https://github.com/fgnass/uniqs
+│  └─ parents: react-coverflow
+├─ unpipe@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/unpipe
+│  ├─ licenseUrl: https://github.com/stream-utils/unpipe/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ url-parse@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unshiftio/url-parse
+│  ├─ licenseUrl: https://github.com/unshiftio/url-parse/raw/master/LICENSE
+│  └─ parents: original:react-coverflow
+├─ url-parse@1.1.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unshiftio/url-parse
+│  ├─ licenseUrl: https://github.com/unshiftio/url-parse/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ url@0.11.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/defunctzombie/node-url
+│  ├─ licenseUrl: https://github.com/defunctzombie/node-url/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  ├─ licenseUrl: https://github.com/TooTallNate/util-deprecate/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ util@0.10.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/defunctzombie/node-util
+│  ├─ licenseUrl: https://github.com/defunctzombie/node-util/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ utils-merge@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jaredhanson/utils-merge
+│  ├─ licenseUrl: http://www.opensource.org/licenses/MIT
+│  └─ parents: react-coverflow
+├─ uuid@2.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/defunctzombie/node-uuid
+│  ├─ licenseUrl: https://github.com/defunctzombie/node-uuid/raw/master/LICENSE.md
+│  └─ parents: sockjs:react-coverflow
+├─ uuid@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kelektiv/node-uuid
+│  ├─ licenseUrl: https://github.com/kelektiv/node-uuid/raw/master/LICENSE.md
+│  └─ parents: fsevents:react-coverflow
+├─ uuid@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kelektiv/node-uuid
+│  ├─ licenseUrl: https://github.com/kelektiv/node-uuid/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ validate-npm-package-license@3.0.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/kemitchell/validate-npm-package-license.js
+│  ├─ licenseUrl: https://github.com/kemitchell/validate-npm-package-license.js/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ vary@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/vary
+│  ├─ licenseUrl: https://github.com/jshttp/vary/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ vendors@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/wooorm/vendors
+│  ├─ licenseUrl: https://github.com/wooorm/vendors/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ verror@1.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davepacheco/node-verror
+│  ├─ licenseUrl: https://github.com/davepacheco/node-verror/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ verror@1.3.6
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/davepacheco/node-verror
+│  ├─ licenseUrl: https://github.com/davepacheco/node-verror/raw/master/LICENSE
+│  └─ parents: fsevents:react-coverflow
+├─ vm-browserify@0.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/vm-browserify
+│  ├─ licenseUrl: https://github.com/substack/vm-browserify/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ watchpack@0.2.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/watchpack
+│  ├─ licenseUrl: https://github.com/webpack/watchpack
+│  └─ parents: react-coverflow
+├─ webpack-core@0.6.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/core
+│  ├─ licenseUrl: http://www.opensource.org/licenses/mit-license.php
+│  └─ parents: react-coverflow
+├─ webpack-dev-middleware@1.12.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/webpack-dev-middleware
+│  ├─ licenseUrl: https://github.com/webpack/webpack-dev-middleware/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ webpack-dev-server@1.16.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/webpack-dev-server
+│  ├─ licenseUrl: https://github.com/webpack/webpack-dev-server
+│  └─ parents: react-coverflow
+├─ webpack-sources@0.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/webpack-sources
+│  ├─ licenseUrl: https://github.com/webpack/webpack-sources
+│  └─ parents: react-coverflow
+├─ webpack@1.15.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/webpack
+│  ├─ licenseUrl: https://github.com/webpack/webpack/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ websocket-driver@0.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/faye/websocket-driver-node
+│  ├─ licenseUrl: https://github.com/faye/websocket-driver-node/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ websocket-extensions@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/faye/websocket-extensions-node
+│  ├─ licenseUrl: https://github.com/faye/websocket-extensions-node/raw/master/LICENSE.md
+│  └─ parents: react-coverflow
+├─ whatwg-fetch@2.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/github/fetch
+│  ├─ licenseUrl: https://github.com/github/fetch/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ whet.extend@0.9.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Meettya/whet.extend
+│  ├─ licenseUrl: https://github.com/Meettya/whet.extend/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ which-module@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/nexdrew/which-module
+│  ├─ licenseUrl: https://github.com/nexdrew/which-module/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ which@1.3.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-which
+│  ├─ licenseUrl: https://github.com/isaacs/node-which/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ wide-align@1.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/wide-align
+│  ├─ licenseUrl: https://github.com/iarna/wide-align/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ window-size@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/window-size
+│  ├─ licenseUrl: https://github.com/jonschlinkert/window-size/blob/master/LICENSE-MIT
+│  └─ parents: react-coverflow
+├─ wordwrap@0.0.2
+│  ├─ licenses: MIT/X11
+│  ├─ repository: https://github.com/substack/node-wordwrap
+│  ├─ licenseUrl: https://github.com/substack/node-wordwrap
+│  └─ parents: uglify-js:react-coverflow
+├─ wordwrap@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-wordwrap
+│  ├─ licenseUrl: https://github.com/substack/node-wordwrap/raw/master/LICENSE
+│  └─ parents: optimist:react-coverflow
+├─ wordwrap@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-wordwrap
+│  ├─ licenseUrl: https://github.com/substack/node-wordwrap/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ wrap-ansi@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/wrap-ansi
+│  ├─ licenseUrl: https://github.com/chalk/wrap-ansi/raw/master/license
+│  └─ parents: react-coverflow
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  ├─ licenseUrl: https://github.com/npm/wrappy/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ write@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/write
+│  ├─ licenseUrl: https://github.com/jonschlinkert/write/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ xtend@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/xtend
+│  ├─ licenseUrl: https://github.com/Raynos/xtend/raw/master/LICENCE
+│  └─ parents: react-coverflow
+├─ y18n@3.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/y18n
+│  ├─ licenseUrl: https://github.com/yargs/y18n/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ yallist@2.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/yallist
+│  ├─ licenseUrl: https://github.com/isaacs/yallist/raw/master/LICENSE
+│  └─ parents: react-coverflow
+├─ yargs-parser@5.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/yargs-parser
+│  ├─ licenseUrl: https://github.com/yargs/yargs-parser/raw/master/LICENSE.txt
+│  └─ parents: react-coverflow
+├─ yargs@3.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bcoe/yargs
+│  ├─ licenseUrl: https://github.com/bcoe/yargs/raw/master/LICENSE
+│  └─ parents: uglify-js:react-coverflow
+└─ yargs@7.1.0
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/yargs/yargs
+   ├─ licenseUrl: https://github.com/yargs/yargs/raw/master/LICENSE
+   └─ parents: react-coverflow
+
+Number of entries found: 815
